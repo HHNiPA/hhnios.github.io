@@ -1,17 +1,164 @@
-Package: com.hhnios.amlich
+Package: com.hhnios.appsyncunified
 Architecture: iphoneos-arm
-Version: 0.1
-Section: Tinh chỉnh
-Maintainer: hhnios
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.hhnios.amlich_0.1_iphoneos-arm.deb
-Size: 56036
-MD5sum: 9e00f4e61ce8f38b3a02684e1c6ef7fd
-SHA1: a6fa4467e1391a4fb73840a7ce947c502d5410de
-SHA256: fb6b0d364e339094b3473ecd624ba74114b6feb1eabd9bf8f67b6c7ee2a554be
-SHA512: 35194636616e12fc3b8187d9c7f3e481143f5d12ed1c30bbcd1849160a3e8745c7b23c6c541985bc58af80a72f0e6ddba97b3e5efbdaa7ca06b6debd9c057063
-Description: Thêm lịch âm dưới đồng hồ
-Name: Âm Lịch
-Author: fahlnbg
-Depiction: https://hhnios.github.io/depictions/?p=com.hhnios.amlich
-Icon: https://hhnios.github.io/depictions/sectionIcons/Amlich.png
+Version: 104.0
+Section: Tweaks
+Maintainer: @hhnios
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
+Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./DEB/com.hhnios.appsyncunified_104.0_iphoneos-arm.deb
+Size: 89636
+MD5sum: b7c9b3735b7a4164232bc7b962aee7d4
+SHA1: 7f1a8e0a9ef10cd14c91efa78c9533f4fac9c24e
+SHA256: 6513d6506ff186cc060f3cd544ff0846311dee21bb4eea952b9171edbb33c616
+SHA512: dae61e83236925a83f1b64d7434bea8ceb7e6e9921bdd60d2c1c73f1e04e0b5c742cc5e5e9f28d0453b962b1a40a9ce4aba3ec8ad57db1688aade8a7a79983f3
+Homepage: https://hhnios.github.io/Debinfo/appsyncunified/?p=info
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn.
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+Depiction: https://hhnios.github.io/Debinfo/appsyncunified/?p=info
+SileoDepiction: https://hhnios.github.io/Sileoinfo/appsyncunified.json
+
+Package: com.hhnios.bypassmbbank
+Architecture: iphoneos-arm
+Version: 1.0-20
+Section: Tweaks
+Maintainer: @hhnios
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.bypassmbbank_1.0-20_iphoneos-arm.deb
+Size: 258196
+MD5sum: a319a22e004c4086a71c12fd999320bb
+SHA1: ffaaafb08a3adea39325eb1fba32484a34b98aa6
+SHA256: 4c4cff8ebaa31cfc95b00f7739a09db135bd9cb015baf0d6cc00be041b3806e8
+SHA512: 1b5671854a4f62b10032c76fc500207d7501ebbb821671f2ac3ad47a253c2d54ebba17f41095def83703e11d1b69d5deadd8d264bbaccd9ee6e7d111c59330e8
+Description: Chặn phát hiện , ẩn jailbreaks cho MBBank
+Name: Bypass MBBank
+Author: IPALibrary <ipalibrary.info>
+Depiction: https://hhnios.github.io/Debinfo/bypassmbbank/?p=info
+SileoDepiction: https://hhnios.github.io/Debinfo/bypassmbbank/?p=info
+
+Package: com.hhnios.cracktool4
+Architecture: iphoneos-arm
+Version: 4.0~beta10b
+Section: Utilities
+Maintainer: @hhnios
+Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
+Filename: ./DEB/com.hhnios.cracktool4_4.0~beta10b_iphoneos-arm.deb
+Size: 2957402
+MD5sum: e512d63f0c2f820554697693bc48573e
+SHA1: 9cf33cc90ad8dffad143ad8f8e22a9ed40cecc13
+SHA256: a4e5a80b546f93fe3343abd9c11aa6fc71f9ba31c6c6ab8872261efb25801af4
+SHA512: abb1a14826d2f3a204136f143a0c1ecc6c8aa12e633b06545e12f3ca52eca8bc7c165e8ddb2463b48699f85aa601828b341460520a65454a092a6ec8411445ba
+Homepage: https://hhnios.github.io/Debinfo/cracktool4/?p=info
+Description: Crack Tweaks chỉ với một cú nhấp chuột
+Name: CrackTool4 (iOS 12/13/14)
+Author: julioverne
+Website: https://hhnios.github.io/Debinfo/cracktool4/?p=info
+Depiction: https://hhnios.github.io/Debinfo/cracktool4/?p=info
+SileoDepiction: https://hhnios.github.io/Sileoinfo/cracktool4.json
+
+Package: com.hhnios.filza64bit
+Architecture: iphoneos-arm
+Version: 3.9.0-2
+Section: Utilities
+Maintainer: @hhnios
+Installed-Size: 21788
+Depends: zip, unzip, gzip, unrar, p7zip, net.kenhtao.libfilza
+Conflicts: com.tigisoftware.filza, net.kenhtao.filza, com.ongcenh.filza
+Filename: ./DEB/com.hhnios.filza64bit_3.9.0-2_iphoneos-arm.deb
+Size: 8476168
+MD5sum: 68269de08397309586902cdd12b831a5
+SHA1: 8a4cb463432a175ab24039b3f172b2b8b53b8927
+SHA256: cd8b8ff75a0c9b91baf3bd4bc5555e6456f0d6698b37b1abdaaa974d019a5b1c
+SHA512: 5a270109cea02f0186927b3efd7568041a952a7b1b14c5cc4dd1ee87c754a115a114959676f498074096605675a055800dd6ec2ebc07820de9f35246a18cd014
+Homepage: https://hhnios.github.io/Debinfo/filza64bit/?p=info
+Description: Trình quản lý tập tin cho iOS của bạn!
+Name: Filza File Manager (64)
+Author: TIGI Software
+Website: https://hhnios.github.io/Debinfo/filza64bit/?p=info
+Depiction: https://hhnios.github.io/Debinfo/filza64bit/?p=info
+SileoDepiction: https://hhnios.github.io/Sileoinfo/filza64bit.json
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.2
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.2_iphoneos-arm.deb
+Size: 773528
+MD5sum: c5e326e6dd050274e5f29674a201be7d
+SHA1: 405219faf699fa5d3d8e7c93e9a3ad95bc16a12e
+SHA256: 32506eeb38194a2ddfd8ed85f8d214e512bd750db75fcb548d24a1dca6ae1ea4
+SHA512: 0f7b09bc396d6fb562fa82aa800e72d67c0f0af06b245ee2c176306b2a45b759fb0f1dbc76fc4e98f70b9f7aaa7d78087256e2d49ea08f7836ac5b0e625ac276
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+
+Package: com.hhnios.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: @ongcenh
+Installed-Size: 5008
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.TruongTamPhong.SnowBoardVietNam
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./DEB/com.hhnios.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Size: 2898974
+MD5sum: 31ce8bfbc5f5e87f065e05668aa0a5cb
+SHA1: d968dbad28d2b9ddb75911ac3161658748f5e692
+SHA256: ac1a9e051d096f1288d9fb2e26ae1e9220a9776bd6bf18c98a41a9edfa7142ef
+SHA512: 53339f8e0ea39379d4509ddf115eb31a0082e951eae9c94e5c98783da83fe6050e5c8424649eabbc3ba916d7cabccf3558a59cac48bda3df01b95d6a764543f8
+Description: Trình quản lý chủ đề !
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+Depiction: https://hhnios.github.io/Debinfo/snowboard/?p=info
+SileoDepiction: https://hhnios.github.io/Debinfo/snowboard/?p=info
+
+Package: com.hhnios.trollstorehelper
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Applications
+Maintainer: @hhnios
+Installed-Size: 616
+Filename: ./DEB/com.hhnios.trollstorehelper_1.2_iphoneos-arm.deb
+Size: 264302
+MD5sum: f9a75e0255bc9c404f6a30a8ee6ae8c6
+SHA1: 7331f954cfe22f3bab98bdbabd13e814c96f7129
+SHA256: ba01639fe864dcbb5f0afc77d1a5cc410b21ead4c90e9190a21505e758c89c4e
+SHA512: b6be224b07aa22cbc5b42592ba6886b1a21361f4202e033b9cf0b072cec060cc5f4dfb8b0704eb0af5dfdb38c1ce76eb7cc6c63eca1c1bf8a6e6c4e28b19c130
+Homepage: https://hhnios.github.io/Debinfo/trollstorehelper/?p=info
+Description: Ứng dụng trợ giúp để cài đặt và quản lý TrollStore!
+Name: TrollStore Helper
+Author: opa334
+Website: https://hhnios.github.io/Debinfo/trollstorehelper/?p=info
+Depiction: https://hhnios.github.io/Debinfo/trollstorehelper/?p=info
+SileoDepiction: https://hhnios.github.io/Sileoinfo/trollstorehelper.json
+
+Package: com.hhnios.xenhtml
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: HHN iOS
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.xenhtml_2.0.1_iphoneos-arm.deb
+Size: 8254228
+MD5sum: 4d3c02edd21a0b8f2579b81208337313
+SHA1: e9b3a95149f0cbd3bbe1976dd6c458d2fa1d76b6
+SHA256: 11929a498f0f4027da2ea0f5dd19c84ab9a510806b3e53d2e8fffb1cd2e70d8b
+SHA512: e4cec0a97d3a8f7782f3e6663b8ab71e6fab924e3151c276f2a0b29d3615c8bd9dd06886e1f9e68b369aaa8f2f7744395981ad6a720eb6a82735383bda6a4c3c
+Description: Thêm tiện ích lên màn hình chính và màn hình khoá
+ - Đã dịch sang tiếng Việt sát nghĩa nhất có thể
+ - Ủng hộ tôi để phát triển mạnh hơn 👌
+Name: Xen HTML VN
+Author: Matt Clarke
+Depiction: http://hhnios.github.io/Debinfo/xenhtml/?p=info
+SileoDepiction: http://hhnios.github.io/Debinfo/xenhtml/?p=info
+
