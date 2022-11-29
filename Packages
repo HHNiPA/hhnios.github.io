@@ -8,7 +8,7 @@ Provides: appsync
 Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8.1)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
-Filename: ./DEB/com.hhnios.appsyncunified_104.0_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.appsyncunified_104.0_iphoneos-arm.deb
 Size: 89636
 MD5sum: b7c9b3735b7a4164232bc7b962aee7d4
 SHA1: 7f1a8e0a9ef10cd14c91efa78c9533f4fac9c24e
@@ -28,7 +28,7 @@ Section: Tweaks
 Maintainer: @hhnios
 Installed-Size: 644
 Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.bypassmbbank_1.0-20_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.bypassmbbank_1.0-20_iphoneos-arm.deb
 Size: 258196
 MD5sum: a319a22e004c4086a71c12fd999320bb
 SHA1: ffaaafb08a3adea39325eb1fba32484a34b98aa6
@@ -46,7 +46,7 @@ Version: 4.0~beta10b
 Section: Utilities
 Maintainer: @hhnios
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
-Filename: ./DEB/com.hhnios.cracktool4_4.0~beta10b_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.cracktool4_4.0~beta10b_iphoneos-arm.deb
 Size: 2957402
 MD5sum: e512d63f0c2f820554697693bc48573e
 SHA1: 9cf33cc90ad8dffad143ad8f8e22a9ed40cecc13
@@ -68,7 +68,7 @@ Maintainer: @hhnios
 Installed-Size: 21788
 Depends: zip, unzip, gzip, unrar, p7zip, net.kenhtao.libfilza
 Conflicts: com.tigisoftware.filza, net.kenhtao.filza, com.ongcenh.filza
-Filename: ./DEB/com.hhnios.filza64bit_3.9.0-2_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.filza64bit_3.9.0-2_iphoneos-arm.deb
 Size: 8476168
 MD5sum: 68269de08397309586902cdd12b831a5
 SHA1: 8a4cb463432a175ab24039b3f172b2b8b53b8927
@@ -89,7 +89,7 @@ Section: Tweaks
 Maintainer: HHNiOS
 Installed-Size: 1164
 Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.2_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.lienquan_0.2_iphoneos-arm.deb
 Size: 773528
 MD5sum: c5e326e6dd050274e5f29674a201be7d
 SHA1: 405219faf699fa5d3d8e7c93e9a3ad95bc16a12e
@@ -110,7 +110,7 @@ Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
 Depends: mobilesubstrate, preferenceloader
 Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.TruongTamPhong.SnowBoardVietNam
 Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
-Filename: ./DEB/com.hhnios.snowboard_1.4.20~Beta4_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.snowboard_1.4.20~Beta4_iphoneos-arm.deb
 Size: 2898974
 MD5sum: 31ce8bfbc5f5e87f065e05668aa0a5cb
 SHA1: d968dbad28d2b9ddb75911ac3161658748f5e692
@@ -128,7 +128,7 @@ Version: 1.2
 Section: Applications
 Maintainer: @hhnios
 Installed-Size: 616
-Filename: ./DEB/com.hhnios.trollstorehelper_1.2_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.trollstorehelper_1.2_iphoneos-arm.deb
 Size: 264302
 MD5sum: f9a75e0255bc9c404f6a30a8ee6ae8c6
 SHA1: 7331f954cfe22f3bab98bdbabd13e814c96f7129
@@ -148,7 +148,7 @@ Version: 2.0.1
 Section: Tweaks
 Maintainer: HHN iOS
 Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.xenhtml_2.0.1_iphoneos-arm.deb
+Filename: ./debs/com.hhnios.xenhtml_2.0.1_iphoneos-arm.deb
 Size: 8254228
 MD5sum: 4d3c02edd21a0b8f2579b81208337313
 SHA1: e9b3a95149f0cbd3bbe1976dd6c458d2fa1d76b6
