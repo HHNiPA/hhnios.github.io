@@ -47,18 +47,14 @@ Section: Utilities
 Maintainer: @hhnios
 Depends: sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools
 Filename: ./DEB/com.hhnios.cracktool4_4.0~beta10b_iphoneos-arm.deb
-Size: 2957402
-MD5sum: e512d63f0c2f820554697693bc48573e
-SHA1: 9cf33cc90ad8dffad143ad8f8e22a9ed40cecc13
-SHA256: a4e5a80b546f93fe3343abd9c11aa6fc71f9ba31c6c6ab8872261efb25801af4
-SHA512: abb1a14826d2f3a204136f143a0c1ecc6c8aa12e633b06545e12f3ca52eca8bc7c165e8ddb2463b48699f85aa601828b341460520a65454a092a6ec8411445ba
-Homepage: https://hhnios.github.io/Debinfo/cracktool4/?p=info
+Size: 2957330
+MD5sum: 39c07ae5cd84ea12b6e237ee51a7bf91
+SHA1: bb00a2419f9eeaddb69f3e6001d1ba1a2d10d4ac
+SHA256: 5f09ede833ee440d7029313a443a2f31570ebd1584c403f65962076fbe3a8970
+SHA512: 48fdfcb8eb43a50846b46296ac0b0c2fbd60275fac7475645b2eeb5d867b9316a04ae9ac92894e5de61917498cfd2ad60d06aa237b5abfbe841e12c6250d32d9
 Description: Crack Tweaks chỉ với một cú nhấp chuột
 Name: CrackTool4 (iOS 12/13/14)
 Author: julioverne
-Website: https://hhnios.github.io/Debinfo/cracktool4/?p=info
-Depiction: https://hhnios.github.io/Debinfo/cracktool4/?p=info
-SileoDepiction: https://hhnios.github.io/Sileoinfo/cracktool4.json
 
 Package: com.hhnios.filza64bit
 Architecture: iphoneos-arm
