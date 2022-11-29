@@ -51,6 +51,25 @@ Description: Crack Tweaks chỉ với một cú nhấp chuột
 Name: CrackTool4 (iOS 12/13/14)
 Author: julioverne
 
+Package: com.hhnios.fakemodel
+Architecture: iphoneos-arm
+Version: 1.1-3
+Section: Tweaks
+Maintainer: HHN iOS
+Installed-Size: 623
+Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./DEB/com.hhnios.fakemodel_1.1-3_iphoneos-arm.deb
+Size: 182468
+MD5sum: 3eadf098570ed219c15ad9d14fad5163
+SHA1: 8588274897c203687b6612d1225fd85a2d1cadd2
+SHA256: 5e8d321ff3c1be64e574143a174f07806b6653262abf7d867092878bbc0f2f3c
+SHA512: 94bf5f542ca69f100aaba9277debeb3f3008075cb61a76c19acdd42d60ca67d2c761e7d31f9276b51685b41c059b2d54dd4876963dadc350d607556e78307f6b
+Description: Giả lập các máy đời cao cho các dòng máy đời thấp !
+Author: Netskao <admin@initnil.com>
+Name: FakeModel
+Depiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
+SileoDepiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
+
 Package: com.hhnios.filza64bit
 Architecture: iphoneos-arm
 Version: 3.9.0-2
@@ -69,6 +88,40 @@ Description: Trình quản lý tập tin cho iOS của bạn!
 Name: Filza File Manager (64)
 Author: TIGI Software
 
+Package: com.hhnios.frameios14
+Architecture: iphoneos-arm
+Version: 2.4.3
+Section: Tweaks
+Maintainer: HHN iOS
+Installed-Size: 8516
+Depends: mobilesubstrate,preferenceloader,firmware (>= 12.1.9)
+Filename: ./DEB/com.hhnios.frameios14_2.4.3_iphoneos-arm.deb
+Size: 2822052
+MD5sum: 9fdc11f98dcc461fc23b778cd3e5c409
+SHA1: ebe0f6ee6eb1c011104b9195b218c5239e1bd9aa
+SHA256: 0639552077db63fef960453e9aaa307a7806eb8fce0c61e932a95d4311591d3d
+SHA512: 1f5ea98b1e83aa114fc38ee9da9fb6c4a2197f64358589d12b124f11223e3db8270f525dd723302ff3c5ac5378385a5c91e79f06ed392a613318fe85b106cfe4
+Description: Thêm video vào màn hình chính & màn hình khoá trên iphone của bạn.
+Name: Frame (IOS 12-14)
+Author: Zerui Chen
+
+Package: com.hhnios.igoi
+Architecture: iphoneos-arm
+Version: 1.03
+Section: Tweaks
+Maintainer: HHN iOS
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./DEB/com.hhnios.igoi_1.03_iphoneos-arm.deb
+Size: 338506
+MD5sum: 872d7198b5f8c293b1646a5174989f18
+SHA1: ac293914a1acef70d17344ab4d2e8be251388a66
+SHA256: 56f0ec6a9335d768ed43d1067121448b24a3e1c23ad45f0b95673edf525fa4a3
+SHA512: 273d5954048cedea52938f391aaab8db6518fd71ecf269582eb9c92519f8f274333732dd6b72f99318f4574989fa162018cfd55d30afd9dd6e8a672ca82442fd
+Description: Một tinh chỉnh giúp bạn đưa Menu Platinmods MỚI (menu tự làm) và kiểm tra hiệu năng một cách dễ dàng!
+Name: In-Game Offset Injector
+Author: TheArmKing
+
 Package: com.hhnios.lienquan
 Architecture: iphoneos-arm
 Version: 0.2
@@ -86,6 +139,23 @@ Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
 Author: HHNiOS
+
+Package: com.hhnios.memsearch
+Architecture: iphoneos-arm
+Version: 1.5
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 10613
+Depends: firmware (>= 8.0)
+Filename: ./DEB/com.hhnios.memsearch_1.5_iphoneos-arm.deb
+Size: 4000222
+MD5sum: 49aa12f90d68955fa4644363722fefd7
+SHA1: eed01ca5e63d6cf73bf10bd2376cd7e9769f1ddb
+SHA256: 29b84a6c810c21491461ebe9b877874df5e7cb5eb9a7eeb9cfee27a562d861b3
+SHA512: e030eb0379ff048736d01f8bf77941b220d300d688405b22431cba6e2a7c95a0ce852183167a4b4bbeaf3855b246e50c45027ca9dbb6a113a285740424db3c31
+Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
+Author: Aidoo.TK <aidoo.tk@gmail.com>
+Name: GameGemVN
 
 Package: com.hhnios.snowboard
 Architecture: iphoneos-arm
