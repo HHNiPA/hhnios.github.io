@@ -1,0 +1,24 @@
+{
+  "name": "Liên Quân Mod Menu",
+  "package": "com.hhnios.lienquan",
+  "author": "HHN iOS",
+  "version": "0.2",
+  "dependency": "Việt Nam",
+  "minOSVersion": "13.0",
+  "maxOSVersion": "14.8+",
+  "otheriOS": "chưa được kiểm chứng",
+  "description": "<div>Liên Quân Hack Menu by HHNiOS<br><br><strong>Bạn cần giúp đỡ ư?</strong> Links kết nối với tôi đã được ghim bên dưới phần mô tả này</div>",
+  "changelog": {
+    "0.2": [
+      "HACK BY HHNIOS"
+    ],
+    "0.2": [
+      "Đây là phiên bản mới nhất rồi!"
+    ]
+  },
+  "screenshots": {
+    "ss1.png": "",
+    "ss2.png": ""
+  },
+  "links": {}
+}
