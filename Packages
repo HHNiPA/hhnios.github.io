@@ -230,6 +230,26 @@ Description: Trình quản lý chủ đề !
 Name: SnowBoard
 Author: Spark & Dennis D. Bednarz
 
+Package: com.hhnios.tai
+Architecture: iphoneos-arm
+Version: 5.1.8
+Section: Utilities
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 475
+Depends: clang-10, clang, curl, git, coreutils, unzip, coreutils-bin, grep, ldid, rsync, xz, dpkg, lz4, make, perl, odcctools, darwintools, llvm, llvm-10, libllvm10, com.bingner.plutil, com.randy420.tools (>= 2.1), mterminal, com.kabiroberai.swift-toolchain, openssl, com.opa334.ccsupport
+Conflicts: net.howett.theos, com.randy420.encrypt
+Filename: ./DEB/com.hhnios.tai_5.1.8_iphoneos-arm.deb
+Size: 91584
+MD5sum: 831ba5d8020c70af4d3402f0e6167d31
+SHA1: e993d4039d86e6695136a272e41be5555f97eb02
+SHA256: f5deff284e374cb67a6d0f1cc720a58aeb6a90a331b79bdbec18b4800ceb6212
+SHA512: 2e99837937cb73be6b39f01575675f66f0439f3b279d1ab57f059c9476c30e813894c430fa57eac7ab5026579c036f047fddba27cc709ffedf00dde3a3b22e4d
+Description: Install theos and setup everything you need with 1 simple command
+Tag: purpose::console
+Author: Randy420 <randy.skinner28@outlook.com>
+Name: Theos Auto Installer
+dev: randy420
+
 Package: com.hhnios.trollstorehelper
 Architecture: iphoneos-arm
 Version: 1.2
