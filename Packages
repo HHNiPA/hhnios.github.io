@@ -1,3 +1,22 @@
+Package: com.hhnios.accdemo
+Architecture: iphoneos-arm
+Version: 0.2.2
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 672
+Depends: mobilesubstrate, preferenceloader, applist
+Filename: ./DEB/com.hhnios.accdemo_0.2.2_iphoneos-arm.deb
+Size: 154814
+MD5sum: be842884e368c1bb3647ba98d34de11d
+SHA1: 4a0c29bbb66322797559e2e284b00867b59c5c08
+SHA256: 6c4d99119d4c25989316725a5e7c9e0baf90bbf8afb5876f9943230ccb58b7af
+SHA512: ba100e002a9c8eff9af5d41fe9bdf14fdb831727f38a72f4e05a3756d62531220d60ddcb30ed69ab59feeab2213149212a3945369cc846ca4fe6fd52bd66ffed
+Tag: purpose::extension
+Name: accDemo
+Author: Brend0n <brendonjkding@126.com>
+dev: brend0n
+
 Package: com.hhnios.appsyncunified
 Architecture: iphoneos-arm
 Version: 104.0
