@@ -229,6 +229,28 @@ Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
 
+Package: com.hhnios.sileo
+Architecture: iphoneos-arm
+Version: 2.0.2-tale1
+Priority: required
+Section: Packaging
+Maintainer: HHNiOS <support@renai.me>
+Installed-Size: 12476
+Pre-Depends: debianutils, dpkg (>= 1.18)
+Depends: apt (>= 1.8.0), coreutils (>=8.31-1), dpkg (>= 1.19.2-4), zsh | bash, cy+cpu.arm64, firmware(>=12.2) | org.swift.libswift (>=5.0)
+Conflicts: cydia-gui (<<99.0)
+Filename: ./DEB/com.hhnios.sileo_2.0.2-tale1_iphoneos-arm.deb
+Size: 4575810
+MD5sum: 8864fb4f85189cec85fece2fa8890b07
+SHA1: 22cf70a1dab49f8b04ae2cd245521689e25423f7
+SHA256: 9bd00ec5659145ea044ae3140c19ef8497f5c33c17fef3764204029780e7b7f1
+SHA512: 78ac549dd41f2b84fdc65c99e9f68b0e0eb6679d0a2f3fddf33b57cf6d7a1e415aa41c7ae2187434f6bdbe6ce50a500b2c2f00c7b83dc9b795f7507e0bec8f57
+Description: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi thuthuatjb.vn. (Công dụng giống như Cydia)
+Tag: cydia::essential
+SileoDepiction: Trình cài đặt sileo cho Cydia đã hỗ trợ tiếng việt bởi thuthuatjb.vn. (Công dụng giống như Cydia)
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+
 Package: com.hhnios.snowboard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
