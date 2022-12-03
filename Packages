@@ -139,6 +139,34 @@ Description: Thêm video vào màn hình chính & màn hình khoá trên iphone 
 Name: Frame (IOS 12-14)
 Author: Zerui Chen
 
+Package: com.hhnios.fullskin
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Mod skin
+Maintainer: HHNiOS
+Filename: ./DEB/com.hhnios.fullskin_0.1_iphoneos-arm.deb
+Size: 9323464
+MD5sum: 75b4fcbbc7bc41d53b2e265f48efa968
+SHA1: c10f0fb77ffb39f1d967f9b83f52bb8f9b66ee80
+SHA256: 47631b0ee8badf3719e1909793d5fce14330dbc537826e5e1ced85ba9a161c69
+SHA512: 2a31c580d8a79f6f4799fc561f40f63b3f4856373b6b9183f52957e6eae55a6c4a6ce377e1f98cee73ece051817c5a05928da039e8df4186cc4bbef2f5767d38
+Description: MOD SKIN LIÊN QUÂN
+   - Nak lôi quang
+   - Bright hacker
+   - Raz bóng đá
+   - Mu siêu việt 2.0
+   - Elsu tận thế
+   - Ảii bạch kimochi
+   - Khỉ nhóc tì
+   - Flo âm nhạc
+   - Gấu nhồi bông
+   - Zata tác giả đương đại
+   - Omo tận thế
+   - Allain hack kiếm sĩ
+   - v.v
+Name: Mod Full Skin
+Author: HHN iOS
+
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
 Version: 1.03
