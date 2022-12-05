@@ -454,3 +454,21 @@ Description: Thêm tiện ích lên màn hình chính và màn hình khoá
 Name: Xen HTML
 Author: Matt Clarke
 
+Package: com.hhnios.zebra
+Architecture: iphoneos-arm
+Version: 1.1.28
+Section: Packaging
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 14484
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./DEB/com.hhnios.zebra_1.1.28_iphoneos-arm.deb
+Size: 9197076
+MD5sum: 9f21d044296c84d3e1b546bff53da00e
+SHA1: 03d3636d850d1c5e7be1270e730d772b605e2949
+SHA256: a03a44be931bceb9b9386f7f29fdd4e57a7de9e6db7bc67f4e3d998cae25543b
+SHA512: 934a0f82e6a45f1b69ec4657ec79b372905f854ebcd96cbc8587d593b3e6f64ab5fd22cc53b7ad9468d7391e6d52b664e0b5e4110b7b8032d4f7b48777623b52
+Description: A Useful Package Manager
+Tag: compatible::9.0-14.8
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+
