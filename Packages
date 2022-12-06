@@ -88,6 +88,24 @@ Description: Crack Tweaks chỉ với một cú nhấp chuột
 Name: CrackTool4 (iOS 12/13/14)
 Author: julioverne
 
+Package: com.hhnios.dumpdecrypter
+Architecture: iphoneos-arm
+Version: 1.3-5.1
+Section: Utilities
+Maintainer: @hhnios
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate
+Conflicts: com.hoangtuan.dumpdecrypter, vn.tuandb.dumpdecrypter
+Filename: ./DEB/com.hhnios.dumpdecrypter_1.3-5.1_iphoneos-arm.deb
+Size: 1310540
+MD5sum: 76ff86ca3eb443a4aa46a679d7d5751d
+SHA1: ac6ce576be9b326cbdc6460680a466f3ea10c403
+SHA256: 2c46c811c84c8ef508cc1ef8554fab85532a939e10a85019c8f9b33a876e3dc4
+SHA512: f238c53c65df88c1e3a106b978765fdae1474423f0a6310776a0b01f5616b3b5ebaddd2a511720485a8bb6605a0653f4935677f07ba1d51c9bc8b195cdac6ac3
+Description: Giải mã ứng dụng iOS
+Name: DumpDecrypter
+Author: Netskao
+
 Package: com.hhnios.fakemodel
 Architecture: iphoneos-arm
 Version: 1.1-3
