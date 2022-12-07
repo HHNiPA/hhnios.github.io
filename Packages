@@ -292,6 +292,24 @@ Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
 Author: HHNiOS
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.4.5
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.4.5_iphoneos-arm.deb
+Size: 788700
+MD5sum: 2eda9ae159f21805303867e5a1ee8c1b
+SHA1: 1b4805d11e8b3129a0470650d72e27ffd5d30d51
+SHA256: 773ddbef390f0e8d61509844c205390f9efbce223ace4af053b8b5f3828122ac
+SHA512: 9666f983f74372b60c11cfc3079ce519c17b53accca579f788ba2810246ff9ddc9ff99765c5cf9343c69efa792b31f959368a2313e6248f56b3666d996875a8a
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+
 Package: com.hhnios.madness
 Architecture: iphoneos-arm
 Version: 0.0.6
