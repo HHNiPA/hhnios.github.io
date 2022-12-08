@@ -221,22 +221,33 @@ Description: MOD SKIN LIÊN QUÂN
 Name: Mod Full Skin
 Author: HHN iOS
 
-Package: com.hhnios.igg
+Package: com.hhnios.fullskinv2
 Architecture: iphoneos-arm
-Version: 0.2.6.1
-Section: Utilities
-Maintainer: iGameGod
-Installed-Size: 184468
-Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
-Filename: ./DEB/com.hhnios.igg_0.2.6.1_iphoneos-arm.deb
-Size: 79629390
-MD5sum: a93fccfc64b518ff8989afed1208772d
-SHA1: 5880c550463729dd921c9c12d6d8a1b25c4382ee
-SHA256: c452df90dfb1503cdce0178b612cc03ea9bd67048089e4f5c7fcfbb825f3d794
-SHA512: b61f2e091690b4b4b9b019dd7e081de2c699118f9b0ce98f89542c10e3f6b1395a54f515c1f379f9ddb1f72402c1047150b2d52b8ff227a8f5c32a8ae63e60e2
-Description: Hãy là vị thần của trò chơi của bạn!
-Name: iGameGod
-Author: iGameGod
+Version: 0.1
+Section: Mod skin
+Maintainer: HHNiOS
+Filename: ./DEB/com.hhnios.fullskinv2_0.1_iphoneos-arm.deb
+Size: 4657708
+MD5sum: 710e4f6af8b6596b6126fdc223fa413d
+SHA1: 5a8a6bc3f92800a794916c152ba7d13bb6dab36e
+SHA256: e6da19fa312406da27d57de04dc704b533874c4b194c2168f06761815f24a453
+SHA512: 6009467aa560a64b8875a9289492e63010cfe144515040988d3f6ba22d18025ce475f148f3e6056fee21143b58890c830654d5b97b7ef79a31feec6e6462ffda
+Description: MOD SKIN LIÊN QUÂN
+   - Nak lôi quang
+   - Flo tinh hệ
+   - Hayate tử thần
+   - Mu siu zịt 2.0
+   - Raz muay thái
+   - Phi dép siu zịt
+   - Elsu tận thế
+   - Ryo sú
+   - Omen tận thế
+   - Allain hack kiếm sĩ
+   - Airi bạch ảnh
+   - Richter sú
+   - v.v
+Name: Mod Full Skin V2
+Author: HHN iOS
 
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
