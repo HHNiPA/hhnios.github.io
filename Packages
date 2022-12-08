@@ -37,6 +37,24 @@ Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của b
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
+Package: com.hhnios.beautifulgirl
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Ảnh nền
+Maintainer: HHN iOS
+Installed-Size: 964
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.beautifulgirl_0.1.0_iphoneos-arm.deb
+Size: 10135082
+MD5sum: dda66077c89a7538ce3d88384968315d
+SHA1: e8eb3ccf08d5dec4e129f988b6ae6fcf573d0e15
+SHA256: dd7efce82ff39eebf56555ecfc882727f7a93444bcc94b4ae088d87522d2e84b
+SHA512: 822b6f08b599ff1cf29199d5ece544573a132cd3227416a296c0bfd0847e8cf11ee5030a99f1c5fb420573a42b998cdd29126c96e3719cd5e2d097f22794ee7b
+Homepage: https://hhnios.github.io
+Description: Hình Nền Girl Xinh Hoạt Hình
+Name: Cartoon Beautiful Girl Wallpaper
+Author: HHNiOS
+
 Package: com.hhnios.bypassmbbank
 Architecture: iphoneos-arm
 Version: 1.0-20
@@ -202,6 +220,23 @@ Description: MOD SKIN LIÊN QUÂN
    - v.v
 Name: Mod Full Skin
 Author: HHN iOS
+
+Package: com.hhnios.igg
+Architecture: iphoneos-arm
+Version: 0.2.6.1
+Section: Utilities
+Maintainer: iGameGod
+Installed-Size: 184468
+Depends: mobilesubstrate (>= 0.9.5000), FIRMWARE (>= 13) | applist
+Filename: ./DEB/com.hhnios.igg_0.2.6.1_iphoneos-arm.deb
+Size: 79629390
+MD5sum: a93fccfc64b518ff8989afed1208772d
+SHA1: 5880c550463729dd921c9c12d6d8a1b25c4382ee
+SHA256: c452df90dfb1503cdce0178b612cc03ea9bd67048089e4f5c7fcfbb825f3d794
+SHA512: b61f2e091690b4b4b9b019dd7e081de2c699118f9b0ce98f89542c10e3f6b1395a54f515c1f379f9ddb1f72402c1047150b2d52b8ff227a8f5c32a8ae63e60e2
+Description: Hãy là vị thần của trò chơi của bạn!
+Name: iGameGod
+Author: iGameGod
 
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
