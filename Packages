@@ -3,15 +3,17 @@ Architecture: iphoneos-arm
 Version: 0.2.2
 Priority: optional
 Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
+Maintainer: Long Mến
 Installed-Size: 672
 Depends: mobilesubstrate, preferenceloader, applist
 Filename: ./DEB/com.hhnios.accdemo_0.2.2_iphoneos-arm.deb
-Size: 154814
-MD5sum: be842884e368c1bb3647ba98d34de11d
-SHA1: 4a0c29bbb66322797559e2e284b00867b59c5c08
-SHA256: 6c4d99119d4c25989316725a5e7c9e0baf90bbf8afb5876f9943230ccb58b7af
-SHA512: ba100e002a9c8eff9af5d41fe9bdf14fdb831727f38a72f4e05a3756d62531220d60ddcb30ed69ab59feeab2213149212a3945369cc846ca4fe6fd52bd66ffed
+Size: 155304
+MD5sum: 4dfc077f15659c3dc307e45dd9d942a8
+SHA1: 2b78397bb8e45f9164bf6a440c1db50a525543fc
+SHA256: fadadd0fc1c7f89d276105a41267f0b435f98ff59bd7f02ebd45ad7424b6b049
+SHA512: 39b4f8876cbdb7175d870ff229d9cd4afbdf1925568327d4383832a113365cb197c3e8fb23ca48a2cbea3edde4c4f6b5cbcb553053c24a12dbe081b183406ca0
+Homepage: http://hhnios.github.io
+Description: Công cụ tăng tốc trò chơi Uniform / cocos2d
 Tag: purpose::extension
 Name: accDemo
 Author: Brend0n <brendonjkding@126.com>
