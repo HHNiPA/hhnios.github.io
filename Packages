@@ -268,6 +268,23 @@ Description: Một tinh chỉnh giúp bạn đưa Menu Platinmods MỚI (menu t�
 Name: In-Game Offset Injector
 Author: TheArmKing
 
+Package: com.hhnios.iosgodsiapcracker
+Architecture: iphoneos-arm
+Version: 1.0-2
+Section: Tweaks
+Maintainer: Laxus
+Installed-Size: 296
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.iosgodsiapcracker_1.0-2_iphoneos-arm.deb
+Size: 17706
+MD5sum: e395b21fac552426696eab1d9dff8e4c
+SHA1: b219398c6e7092997855dad0811b48f90feb6029
+SHA256: 10e46c2200cfb88cd3e21b1960852b481cf5e67df6b6935e3daa295fa5def89e
+SHA512: 0dc4a6832ea2c201e959f1f9c5d3a5d5dd1806291d939eb425a85cba82d4c7a6307cca295e067c4979afc0b1d49c8ed04cf988e6afd569efb37234ccd36c4d89
+Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó không phải lúc nào cũng hoạt động nên đừng mong đợi nhiều.  Bật tinh chỉnh bên trong Cài đặt iOS.  Tinh chỉnh này được thực hiện bởi @Laxus cho iOSGods.com, hỗ trợ các thiết bị A12/A13
+Name: iOSGods iAP Cracker
+Author: Laxus
+
 Package: com.hhnios.lienquan
 Architecture: iphoneos-arm
 Version: 0.2
