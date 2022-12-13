@@ -573,3 +573,21 @@ Tag: compatible::9.0-14.8
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
 
+Package: com.hhnios.zebra
+Architecture: iphoneos-arm
+Version: 1.1.29
+Section: Packaging
+Maintainer: Zebra Team <team@getzbra.com>
+Installed-Size: 12580
+Depends: dpkg, uikittools, firmware (>= 9.0)
+Filename: ./DEB/com.hhnios.zebra_1.1.29_iphoneos-arm.deb
+Size: 8276518
+MD5sum: 301ddcc4154e2fa24be48e6c7b268636
+SHA1: 1f0a8581c44dc11339a4e51b545aacff0263304f
+SHA256: ec0987511c3fb6462659fa900f995bc56f8f60a82a277d807b0865c9e1ffed43
+SHA512: 67fe7ea4ee398279eb11107c65d6195961a6d6f430385a51735736983742be39a58934eaa9a4d254bc10af7c7819dffc381cf96a481e5ccdcf9b65ab9d5811a1
+Description: 1 ứng dụng cho phép bạn tải tinh chỉnh tương tự như Cydia hoặc Sileo!!
+Tag: compatible::9.0-15.7
+Name: Zebra
+Author: Zebra Team <team@getzbra.com>
+
