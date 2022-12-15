@@ -553,6 +553,23 @@ Name: FPSIndicator
 Author: Brend0n <brendonjkding@126.com>
 dev: brend0n
 
+Package: com.hhnios.unlock60fps
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: HHN iOS
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.unlock60fps_0.1.0_iphoneos-arm.deb
+Size: 4912
+MD5sum: 7e470c3aea759375bf370c1732c9a342
+SHA1: ac0a8a774eadb7c6c86b99b3404548f25a697838
+SHA256: 6a577acef9b2b5966c9dd07bebc77996ef226de80bb59e1a2fa4a38644079f54
+SHA512: 9ef612a8f54d511c75e7f04e28878cb943e3f857922439f3ec213e064d072f748c3bf58b7550ad2a3a412ae5d68fd27e82d81e8fc74f7b8ef81e9d96d3d8c097
+Description: Unlock 60fps Game Liên Quân Mobile
+Name: Unlock 60 FPS Liên Quân
+Author: HHN iOS
+
 Package: com.hhnios.xenhtml
 Architecture: iphoneos-arm
 Version: 2.0.1
