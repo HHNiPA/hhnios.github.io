@@ -92,6 +92,22 @@ Description: Làm cho ứng dụng sử dụng FPS cao nhất.
 Name: CAHighFPS
 Author: PoomSmart
 
+Package: com.hhnios.crackerxi+
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: System
+Maintainer: HHN iOS
+Depends: firmware (>= 11.0)
+Filename: ./DEB/com.hhnios.crackerxi+_1.1.1_iphoneos-arm.deb
+Size: 9962074
+MD5sum: a93964ff0dcb43f311a177a2b10428b6
+SHA1: 986dd0cd63bdf955375274c4a53d7d454c92169a
+SHA256: 36dd4cb5165e0ca7782a4389ece43e64135a62f0abb11fe6002683587772547c
+SHA512: e60bec98589b9481225fde4efb1ac8391756d249afb7c2de7972b1889e4417d7caecf199690c01cf6715b42aa60504a2afe89fd89d8c744a8a101e051330f349
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn. Hoạt động tốt từ ios 11 đến ios 14 đều ok .
+Name: CrackerXI+
+Author: c0pyn1nja
+
 Package: com.hhnios.cracktool4
 Architecture: iphoneos-arm
 Version: 4.0~beta10b
