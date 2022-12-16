@@ -267,6 +267,20 @@ Description: MOD SKIN LIÊN QUÂN
 Name: Mod Full Skin V2
 Author: HHN iOS
 
+Package: com.hhnios.iMemScan
+Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Utilities
+Filename: ./DEB/com.hhnios.iMemScan_1.2.7_iphoneos-arm.deb
+Size: 2511932
+MD5sum: 4162f1dfc71c1bd397b421311d3deaae
+SHA1: 38ed0f1a5fee0e2493a02265bb9e6947c283f10d
+SHA256: f73918eaabf1fac7ea9670abcda77de07e2eb5e970bfab49ba2be60aaaaf94b6
+SHA512: 2a9eb7add202892423724c4011936a6346c12e5d38b086782fad66327065215931094b20c25baf47ae445edc3d2867fa30c2f16965a1e7379a0c0621b5605b75
+Description: iMem Scan（以下简称 iMe）
+ 是一款内存基址调试工具.
+Name: iMemScan
+
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
 Version: 1.03
