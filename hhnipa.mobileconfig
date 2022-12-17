@@ -16,7 +16,7 @@
 		        <key>IsRemovable</key>
 			<true/>
 			<key>Label</key>
-			<string>Hhnipa Box</string>
+			<string>HHN Store</string>
 			<key>PayloadDescription</key>
 			<string>Configures Web Clip</string>
 			<key>PayloadDisplayName</key>
@@ -38,13 +38,13 @@
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>Cài đặt Box  Tiện ích Tạo bởi Long Mến và Hoàng Hải Ninh</string>
+	<string>Cài Đặt HHN Store  Tiện ích Tạo bởi Long Mến và Hoàng Hải Ninh</string>
 	<key>PayloadDisplayName</key>
-	<string>Hhnipa Box</string>
+	<string>HHN Store</string>
 	<key>PayloadIdentifier</key>
 	<string>cm.longmen94.hhnipa</string>
 	<key>PayloadOrganization</key>
-	<string>Hhn Ipa</string>
+	<string> HHN Store  </string>
 	<key>PayloadRemovalDisallowed</key>
 	<false/>
 	<key>PayloadType</key>
