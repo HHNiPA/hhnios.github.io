@@ -39,6 +39,26 @@ Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của b
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
+Package: com.hhnios.appsyncunified
+Architecture: iphoneos-arm
+Version: 106.0
+Section: Tweaks
+Maintainer: @hhnios
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.2)
+Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./DEB/com.hhnios.appsyncunified_106.0_iphoneos-arm.deb
+Size: 89594
+MD5sum: e2aa913131659f3e1e87bdd9af57eba8
+SHA1: d55dce15c17d8d75a22d1c9b72e1351a3dd4b36c
+SHA256: 37102484cb6781b1b7a2582382a5e8fe6e12a43067035af9696921bc5499c484
+SHA512: 211f410bcc38087ca6343a30e2ed67cfca8843a3d3f25c418dc6d39118ac4b29726eb21a01c26014e30be1778e724ad29dc664b4e9e13011902d507b83f22fcb
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn, hỗ trợ từ iOS5-iOS16
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+
 Package: com.hhnios.beautifulgirl
 Architecture: iphoneos-arm
 Version: 0.1.0
