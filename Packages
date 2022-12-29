@@ -112,6 +112,24 @@ Description: Làm cho ứng dụng sử dụng FPS cao nhất.
 Name: CAHighFPS
 Author: PoomSmart
 
+Package: com.hhnios.camxa3nac
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camxa3nac_0.1.0_iphoneos-arm.deb
+Size: 78712
+MD5sum: a9a7532bba52b23352aed426d88b8f8f
+SHA1: 51ddaf0f91a1685a027e06929acb3a4d6c58dedc
+SHA256: 73d45c1686001c57f082e245decf5a9c0041de24711a08e0d4d1f9d6599637b1
+SHA512: 88e78e5cf75cc527bf1fb501bb7e171268ecc12271e9dcf2557eddb360f39b4f5772cad537db39aa3d889d96c3f129cdc50af3da7a70a58f1abd6a843259ec0c
+Homepage: https://hhnios.github.io
+Description: Mod by HHNiOS!
+Name: Cam Xa 3 Nấc Liên Quân
+Author: HHNiOS
+
 Package: com.hhnios.crackerxi+
 Architecture: iphoneos-arm
 Version: 1.1.1
