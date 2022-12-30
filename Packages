@@ -130,6 +130,24 @@ Description: Mod by HHNiOS!
 Name: Cam Xa 3 Nấc Liên Quân
 Author: HHNiOS
 
+Package: com.hhnios.camxa3nac
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camxa3nac_0.1.5_iphoneos-arm.deb
+Size: 78960
+MD5sum: 8a4e07041d898386881acd9c0f1d267a
+SHA1: 1493b259d22d7c6102867db33c845497228198bf
+SHA256: b72270b12c5f185b3adfc178de8b5305f4c505e2dbeacbaa4367d00e5d39e76c
+SHA512: 86f7131d480fd6a67522460171921f894b1ddf5b0c17905441052ca973d46b15659454fda617cfb933fa737aa9afa3e32236cabb02a13cace64449291f26f7ea
+Homepage: https://hhnios.github.io
+Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ trợ, by HHNiOS
+Name: Cam Xa 3 Nấc Liên Quân
+Author: HHNiOS
+
 Package: com.hhnios.crackerxi+
 Architecture: iphoneos-arm
 Version: 1.1.1
