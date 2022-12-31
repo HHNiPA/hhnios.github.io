@@ -619,6 +619,22 @@ Description: MOD SKIN LIÊN QUÂN
 Name: Mod Skin Raz Thái
 Author: HHN iOS
 
+Package: com.hhnios.shadow
+Architecture: iphoneos-arm
+Version: 2.0.20
+Section: Tweak
+Maintainer: HHNiOS
+Depends: firmware (>=8.0), mobilesubstrate, ws.hbang.common, applist, preferenceloader
+Filename: ./DEB/com.hhnios.shadow_2.0.20_iphoneos-arm.deb
+Size: 251950
+MD5sum: 24f1b2576f6697bbffdd86c4089f5de1
+SHA1: 3068023a144cdfc02d3c08ab9235f874af1eb750
+SHA256: 1db3e6ccb23f786568a94059b4af8f2ebbeea5914560ceb21527caf9d1d0a87f
+SHA512: 0fadb075226168e9996923d8ff7fb047939b873e9fa1500ca5e921c4343aa50d13feb48f19f5aa6829cbb4b60c83bf2a9d42da641ec1e5281cecf738ad730089
+Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
+Name: Shadow
+Author: jjolano <jjolano@me.com>
+
 Package: com.hhnios.sileo
 Architecture: iphoneos-arm
 Version: 2.0.2-tale1
