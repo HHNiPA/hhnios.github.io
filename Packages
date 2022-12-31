@@ -77,6 +77,24 @@ Description: Hình Nền Girl Xinh Hoạt Hình
 Name: Cartoon Beautiful Girl Wallpaper
 Author: HHNiOS
 
+Package: com.hhnios.beautifulgirlv2
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Ảnh nền
+Maintainer: HHN iOS
+Installed-Size: 964
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.beautifulgirlv2_0.1.0_iphoneos-arm.deb
+Size: 15103268
+MD5sum: 68e4bc3e111cf584c3fe6ea0030e5852
+SHA1: 09c009de680929208f77955200b7a8fede622100
+SHA256: 747d44893ed468e7116defe8069ed5994dce5050ee180b4ec41e5900b4f2e666
+SHA512: 2c5c4a0b6443b3e5f764847c81321d943953913b763077931770f47dcd58b49fff642d4225f31d8b881fcef8cffb4133e810782d922a8f5e2eb4691c27b0ffa2
+Homepage: https://hhnios.github.io
+Description: Hình Nền Girl Xinh Hoạt Hình
+Name: Cartoon Beautiful Girl WallpaperV2
+Author: HHNiOS
+
 Package: com.hhnios.bypassmbbank
 Architecture: iphoneos-arm
 Version: 1.0-20
