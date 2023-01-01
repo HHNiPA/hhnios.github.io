@@ -1,3 +1,19 @@
+Package: com.hhnios.SemiRestore
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Utilities
+Maintainer: HHNiOS
+Depends: mobilesubstrate, firmware(>=11.0)
+Filename: ./DEB/com.hhnios.SemiRestore_1.1.7_iphoneos-arm.deb
+Size: 54488
+MD5sum: f1af318ca3ff06cb91a0296d1828f045
+SHA1: d0e7b8de5c5468ab9cecf4e53cb2ac4ce28f6cdc
+SHA256: 57bb7e35c7ec99798eee298867e84abfbb2d2e86acec6ad73a438a21812fa3a9
+SHA512: 4047c5c706362578e4f6f48694b8cee7192c1eac81da3c95955a29e2736104c3c7de479948c14c7edb8df9582b1b9f49732062e9744ecbe7ee9cd9e7bcec7428
+Description: Công cụ gỡ jailbreak sạch 100% cho iOS 11 đến 14,khôi phục lại máy về như lúc xuất xưởng. lưu ý sao lưu lại dữ liệu trước khi chạy.Tweak dùng rất đơn giản,bạn chỉ cần nhấn vào Unjailbreak,nó sẽ chạy khi bạn nhấn vào Xác nhận.
+Name: SemiRestore 11-14
+Author: Pwn20wnd
+
 Package: com.hhnios.accdemo
 Architecture: iphoneos-arm
 Version: 0.2.2
