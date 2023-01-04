@@ -589,6 +589,23 @@ Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
 Author: HHNiOS
 
+Package: com.hhnios.localiapstore
+Architecture: iphoneos-arm
+Version: 1.4-5b
+Section: Tweaks
+Maintainer: HHNiOS
+Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
+Conflicts: com.repo.kenhtao.net.localiapstore
+Filename: ./DEB/com.hhnios.localiapstore_1.4-5b_iphoneos-arm.deb
+Size: 70838
+MD5sum: d8e468a76429ed0d1c0641600ed6d140
+SHA1: 1beb66dfba1b41ad6f43beaf6fd1873ed55a4569
+SHA256: 0f4d78d3f39b24d666622876c8d4a12c73edef0a0c3a5ac276e054d554e878fd
+SHA512: 84ed1dbacdc4a56ee60eef2a6960077427b24fd369af4994e07c5b3cbde8aa89d700b88fe45809426c9638ccebddb625c6edf1159867b854e7bfbf6652c56030
+Description: Bỏ qua thanh toán trong các ứng dụng App Store
+Name: LocaliAPStore
+Author: Anondev
+
 Package: com.hhnios.madness
 Architecture: iphoneos-arm
 Version: 0.0.6
@@ -783,6 +800,23 @@ SHA512: 9ef612a8f54d511c75e7f04e28878cb943e3f857922439f3ec213e064d072f748c3bf58b
 Description: Unlock 60fps Game Liên Quân Mobile
 Name: Unlock 60 FPS Liên Quân
 Author: HHN iOS
+
+Package: com.hhnios.videoadsspeed
+Architecture: iphoneos-arm
+Version: 1.0.4-3
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 893
+Depends: mobilesubstrate(>= 0.9.5015), preferenceloader(>= 2.2.2), applist
+Filename: ./DEB/com.hhnios.videoadsspeed_1.0.4-3_iphoneos-arm.deb
+Size: 204654
+MD5sum: bede62ffb153ea1f39aa346baebb0c7c
+SHA1: 82f6c6635456f4a6f3724402597f419d247475f5
+SHA256: 341fda8fd3f1bb9f68ba966895f5498a329e760039d1c82e00e67aa03eb11b5a
+SHA512: d8643bdbe95b27650991469e189aa37d822fae1304f659cdfeec971eb8830d87a6a3fe7dac85f9e153b633ad37d0a24e87323e624a25ff18f85f429d6676e84a
+Description: Nhanh tay bỏ qua video quảng cáo và nhận thưởng bình thường.
+Author: lenglengyu <lenglengyu@126.com>
+Name: VideoAdsSpeed
 
 Package: com.hhnios.xenhtml
 Architecture: iphoneos-arm
