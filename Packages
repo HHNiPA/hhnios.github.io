@@ -149,16 +149,16 @@ Author: PoomSmart
 Package: com.hhnios.camxa3nac
 Architecture: iphoneos-arm
 Version: 0.1.0
-Section: Tweaks
+Section: Liên Quân
 Maintainer: HHNiOS
 Installed-Size: 288
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.camxa3nac_0.1.0_iphoneos-arm.deb
-Size: 78712
-MD5sum: a9a7532bba52b23352aed426d88b8f8f
-SHA1: 51ddaf0f91a1685a027e06929acb3a4d6c58dedc
-SHA256: 73d45c1686001c57f082e245decf5a9c0041de24711a08e0d4d1f9d6599637b1
-SHA512: 88e78e5cf75cc527bf1fb501bb7e171268ecc12271e9dcf2557eddb360f39b4f5772cad537db39aa3d889d96c3f129cdc50af3da7a70a58f1abd6a843259ec0c
+Size: 98866
+MD5sum: 75d03be6f92034261392a71baad10a18
+SHA1: 93e172b93f2d7e31135d4c9623f33365a1023900
+SHA256: e10e1b7fb833fbe9c6b99ae972196a0bafe309f8074a456cc5ee782ae9980f08
+SHA512: 2f8225319a3926aeb8b27808e40910b6c332554a4f87f64b5f6f120dfbc5f5f41a3cbd16e08b440287b19a2a1564b293117a78cb24d30bd9479677c323d53c91
 Homepage: https://hhnios.github.io
 Description: Mod by HHNiOS!
 Name: Cam Xa 3 Nấc Liên Quân
@@ -167,16 +167,16 @@ Author: HHNiOS
 Package: com.hhnios.camxa3nac
 Architecture: iphoneos-arm
 Version: 0.1.5
-Section: Tweaks
+Section: Liên Quân
 Maintainer: HHNiOS
 Installed-Size: 288
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.camxa3nac_0.1.5_iphoneos-arm.deb
-Size: 78960
-MD5sum: 8a4e07041d898386881acd9c0f1d267a
-SHA1: 1493b259d22d7c6102867db33c845497228198bf
-SHA256: b72270b12c5f185b3adfc178de8b5305f4c505e2dbeacbaa4367d00e5d39e76c
-SHA512: 86f7131d480fd6a67522460171921f894b1ddf5b0c17905441052ca973d46b15659454fda617cfb933fa737aa9afa3e32236cabb02a13cace64449291f26f7ea
+Size: 99068
+MD5sum: 6508539e9359be8ac809ea765e77a5d8
+SHA1: 31b810709a8630923d99061b53e621d452f43989
+SHA256: 4bd090711694e397458da5d6f6ce68668e5f65ccb229dbd9e68b8a5d46e491e4
+SHA512: d8a345a735fc4e168e7d1239c103ba4b8a283bb778770a540d55cea44561c6ff61336716782a7d6f92902b74e1babfc028bcf7cfbcab6cd60a0b17d384e6f91b
 Homepage: https://hhnios.github.io
 Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ trợ, by HHNiOS
 Name: Cam Xa 3 Nấc Liên Quân
@@ -445,150 +445,6 @@ Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó
 Name: iOSGods iAP Cracker
 Author: Laxus
 
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.2
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.2_iphoneos-arm.deb
-Size: 773528
-MD5sum: c5e326e6dd050274e5f29674a201be7d
-SHA1: 405219faf699fa5d3d8e7c93e9a3ad95bc16a12e
-SHA256: 32506eeb38194a2ddfd8ed85f8d214e512bd750db75fcb548d24a1dca6ae1ea4
-SHA512: 0f7b09bc396d6fb562fa82aa800e72d67c0f0af06b245ee2c176306b2a45b759fb0f1dbc76fc4e98f70b9f7aaa7d78087256e2d49ea08f7836ac5b0e625ac276
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.3.5
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.3.5_iphoneos-arm.deb
-Size: 773562
-MD5sum: 08cc1810c1a287950b98570709189970
-SHA1: 06c09d0b921e575b9b442787b972c8f9e548bb08
-SHA256: 8acbe0360e95a1d2df5b7a054f51b02c6fc5d0fd6184a6aad64be449d0b85233
-SHA512: 3606ebb8690f8fb85a70e3c8918b783e6c51cd0193940b33dc3b81943b6e905c817ffd573cd2bfe633be48e92d5fbd5a2e225d5d9afb65c85a1189160b284b86
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.3
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.3_iphoneos-arm.deb
-Size: 773282
-MD5sum: 220f787eca67922e931c72b1084bbb9b
-SHA1: fa99f6f3428c70ea79ff2fb87983c3a9d369db8e
-SHA256: edadec355ed95303c58445a4dca06d0feb82bf30d6d809101325b432c0b5f43f
-SHA512: 73655c4e7a7836e474a415d30b8a9f78b936259b90cd9d27af9ec19470396793b693f1f83d58b7da71f470e2f88fd5bac73ee6737695e9efea98f6a257a09870
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.4.0
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.4.0_iphoneos-arm.deb
-Size: 773690
-MD5sum: 164718cc4e6279647b379dbf3c00a845
-SHA1: a316873d27e602e13914fcc0db4d7c4ead010151
-SHA256: 2cf8238af2f6bf1bcf7d3ab87b854d0beb053ae5e1ee3545ef6b000db92c03d1
-SHA512: 254291a5eae7fb91d7063da798140d61b474b490c5010bb3ecb7b49a97ea4a1d6e3e5d3529e9cc17b7a3cef84477b10ad10a8107c792efcece70dde325033e5c
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.4.5
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.4.5_iphoneos-arm.deb
-Size: 788700
-MD5sum: 2eda9ae159f21805303867e5a1ee8c1b
-SHA1: 1b4805d11e8b3129a0470650d72e27ffd5d30d51
-SHA256: 773ddbef390f0e8d61509844c205390f9efbce223ace4af053b8b5f3828122ac
-SHA512: 9666f983f74372b60c11cfc3079ce519c17b53accca579f788ba2810246ff9ddc9ff99765c5cf9343c69efa792b31f959368a2313e6248f56b3666d996875a8a
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.5.0
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.5.0_iphoneos-arm.deb
-Size: 773908
-MD5sum: 71bef6497c60bb850a4281bb8ba21dd6
-SHA1: ef65fcd24bb4fdda181dd7650e05beb6ce6d2d22
-SHA256: a171d8f28c2a33329a198e8a574480c1d0309b93b7cbe199a5578a0030439dfe
-SHA512: dbdcb7edaad6b8d6c1407212bdf041cd01c12aa06e41a64e844fbde80f4b6bf5ed594a8a1e8aa8f43a84b4244aec6c0599682ae0fd48c767704d2568f0b89544
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.5.5
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.5.5_iphoneos-arm.deb
-Size: 774242
-MD5sum: dd6ba6f62af3a1631bc871b37cc02601
-SHA1: 3ef872dc5219db9313ef1277759bfab5e0c3f506
-SHA256: 3f3a81ef232dd1b0cd7432edef6eb23c68fbab0a728a63f16198a52033e8d54f
-SHA512: 6a2c667e0ea8c7880979c5f70b6318b8506b1be50a96135f78196ab580cd52e5541aa6ca9a59837b7b62cf98d04d1bf5a44aa01bf67d64047bae9938c1328cb9
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.6.0
-Section: Tweaks
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.6.0_iphoneos-arm.deb
-Size: 887710
-MD5sum: af038fc6fd7161b354a0d02e04f92d0d
-SHA1: 786b0c1156934c433f6073c9849e5826f3f248a5
-SHA256: bab549d554dc53faca07ce447eba50739213ffefc90c520e412c37270920ab8f
-SHA512: 53656da2433523cd14e187e2549b92994d3bbab9339217465e711032b938b4362747a8dc9f19346da7e888ff4a2e325d5c869588b336c644b54d38ddb0040cd4
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
@@ -787,16 +643,16 @@ dev: brend0n
 Package: com.hhnios.unlock60fps
 Architecture: iphoneos-arm
 Version: 0.1.0
-Section: Tweaks
+Section: Liên Quân
 Maintainer: HHN iOS
 Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.unlock60fps_0.1.0_iphoneos-arm.deb
 Size: 4912
-MD5sum: 7e470c3aea759375bf370c1732c9a342
-SHA1: ac0a8a774eadb7c6c86b99b3404548f25a697838
-SHA256: 6a577acef9b2b5966c9dd07bebc77996ef226de80bb59e1a2fa4a38644079f54
-SHA512: 9ef612a8f54d511c75e7f04e28878cb943e3f857922439f3ec213e064d072f748c3bf58b7550ad2a3a412ae5d68fd27e82d81e8fc74f7b8ef81e9d96d3d8c097
+MD5sum: 502a841ae2b394a2827ce75d78e672d7
+SHA1: cba3dbe5710d122ef155970a9a4f689f00329b69
+SHA256: 906ec08a108a91a2a5ef0476d6f017017ab0a356889cdab1dd5783fd7dc89f40
+SHA512: a67cb58fadebab541911130f45a4a44370df5f5841ce1d6302c3d3638e99e8397414fce470924d6922df0e7bf3684f3f96b09c37eeab1069e1a071aa795bf11f
 Description: Unlock 60fps Game Liên Quân Mobile
 Name: Unlock 60 FPS Liên Quân
 Author: HHN iOS
