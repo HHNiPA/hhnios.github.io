@@ -465,16 +465,33 @@ Author: Anondev
 Package: com.hhnios.madness
 Architecture: iphoneos-arm
 Version: 0.0.6
-Section: Tweaks
+Section: Pubg
 Maintainer: ESP
 Installed-Size: 644
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.madness_0.0.6_iphoneos-arm.deb
-Size: 528456
-MD5sum: ed422c86659dfb0b29a32c7d3c318dc6
-SHA1: 99cf5fb9d4d3d37cf9199b83d2b17102bc7c0822
-SHA256: af7761d3f63721bae3831d893fb02d9d7aa2a3622f3af2c4ac1ef4d17c7d8ecf
-SHA512: dff3692fa2165d045b7dd9df3de93758360ebcb1f54067c4ba9ebde2d8f3d098a68037d3ab7fd4a99d14ff28b2c924dfcf7835ce86bb12176d83025482a3d3fb
+Size: 528454
+MD5sum: 2e67149036d25698411577254eee22e5
+SHA1: 43f1bc4c886cfb5ede7d6302112c210d34f2c72a
+SHA256: c4371510797d77399266db89e787a0a8acf8d11c4ce95fe2440494b603f5343a
+SHA512: 6ce3e4c54a9ae00f1de32a91b901e5ec5975dd362d29655b993e1c87f0e234f6222290619aa2f5d70d3b38a27e9efabca9b49ef67437cc77a96f533bb8a27320
+Description:  Menu By Majed_aj
+Name: MADNESS PUBG TEST GL+VNG+KR
+Author: ESP
+
+Package: com.hhnios.madness
+Architecture: iphoneos-arm
+Version: 0.0.8
+Section: Pubg
+Maintainer: ESP
+Installed-Size: 644
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.madness_0.0.8_iphoneos-arm.deb
+Size: 599910
+MD5sum: 3164750d03c00aa941a8e182e3b26b93
+SHA1: 148a9172cf3de20a1c1afa56ba369c96fe6253e0
+SHA256: dc29ebf926e5e89e2ee40381d37aaa1f1b21b1bfcf3c1c0afc6f68ed525478a9
+SHA512: 631c5d8c6f4f2cc5f808edf03110547146fa74af9bfc7fdb76f6670be50a2af084d757a65a27ea262e41fa1cd265446c8545fe581ae26edcbb5ee098ef5f952d
 Description:  Menu By Majed_aj
 Name: MADNESS PUBG TEST GL+VNG+KR
 Author: ESP
