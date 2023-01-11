@@ -182,6 +182,24 @@ Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ tr
 Name: Cam Xa 3 Nấc Liên Quân
 Author: HHNiOS
 
+Package: com.hhnios.camxa3nac
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.camxa3nac_0.2.0_iphoneos-arm.deb
+Size: 78892
+MD5sum: 8ebcdcc452605120ef3e0ba738b404d0
+SHA1: 468228ae0d3c8956a0d97b2040f81fa11b4bcc32
+SHA256: c048765d36d6dbead8a13aa1767b0f954a61508dc5babf170785dbeabf1b15d1
+SHA512: 875bc283883043a12d77b1e02a48e84af7797cbcad4f112f878bbc551588715d9e80e36b2ab692e20f3c4a35f6cce01584ae19e79d15a7fc9ada4b0d118d879a
+Homepage: https://hhnios.github.io
+Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ trợ, by HHNiOS
+Name: Cam Xa 3 Nấc Liên Quân
+Author: HHNiOS
+
 Package: com.hhnios.crackerxi+
 Architecture: iphoneos-arm
 Version: 1.1.1
