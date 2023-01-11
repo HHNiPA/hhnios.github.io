@@ -463,6 +463,24 @@ Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm.deb
+Size: 772932
+MD5sum: 06865261c060b5def9039524f40e2e16
+SHA1: f472b895bf08bf7b0b230d6e47ae36da9541d79a
+SHA256: c1de670d7b7480c2da1dde7796d59d12ff7e26ada22e83a136cf54a583ca7788
+SHA512: accca3de27983a5c3bdc03e524eb34fccd7cd1f456f3a67c1b78b93c0125a68f1fcfe1fc5755bafaf3ca615b7caae1d6360f644cafad19d5305a175e969d1156
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
