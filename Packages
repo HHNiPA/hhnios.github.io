@@ -496,21 +496,6 @@ Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
 
-Package: com.hhnios.nakvethan
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Mod skin
-Maintainer: HHNiOS
-Filename: ./DEB/com.hhnios.nakvethan_0.1_iphoneos-arm.deb
-Size: 710900
-MD5sum: 2f585b4f762eaac5d80e46924f3e4cae
-SHA1: 1fc130315ff073b27fea9e25d2a4061d990bdec3
-SHA256: cf2ceac1967dda339ed1aae8d1f52291ca6148e3d6aaacfe2fa7f74b47778f76
-SHA512: b9edf34ab216b2e61e656273bfece38e4ffcecab03ae910aa355afdc90a774fe7d6da2fdb212911c34d2a86fe33d76720b64aa57689fda6bb23a6b548d00ad17
-Description: MOD SKIN LIÊN QUÂN
-Name: Mod Skin Nak TNVT
-Author: HHN iOS
-
 Package: com.hhnios.shadow
 Architecture: iphoneos-arm
 Version: 2.0.20
