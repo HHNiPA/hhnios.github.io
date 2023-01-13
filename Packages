@@ -327,21 +327,6 @@ Description: Trình quản lý tập tin cho iOS của bạn!
 Name: Filza File Manager (64)
 Author: TIGI Software
 
-Package: com.hhnios.flotinhhe
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Mod skin
-Maintainer: HHNiOS
-Filename: ./DEB/com.hhnios.flotinhhe_0.1_iphoneos-arm.deb
-Size: 418282
-MD5sum: ae2ee2620f71bca10f5644026bf2b49b
-SHA1: d5c9eefeeabfdded2fd2b54eeda7b492c8498c54
-SHA256: 5ce0084c1c92d625c28da33c2f59dbc1460f4bd06209bf89b1a7731cf24743d9
-SHA512: 29dc008ba2b19b136ed4432ed3ff81c999ac7afe52e0f65e5a11409c4cea528e6252db6acae0fc0f799b9ba6279052ab53d4439172b10d0bf709fe62c076897c
-Description: MOD SKIN LIÊN QUÂN
-Name: Mod Skin Flo Tinh Hệ
-Author: HHN iOS
-
 Package: com.hhnios.frameios14
 Architecture: iphoneos-arm
 Version: 2.4.3
@@ -358,62 +343,6 @@ SHA512: 1f5ea98b1e83aa114fc38ee9da9fb6c4a2197f64358589d12b124f11223e3db8270f525d
 Description: Thêm video vào màn hình chính & màn hình khoá trên iphone của bạn.
 Name: Frame (IOS 12-14)
 Author: Zerui Chen
-
-Package: com.hhnios.fullskin
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Mod skin
-Maintainer: HHNiOS
-Filename: ./DEB/com.hhnios.fullskin_0.1_iphoneos-arm.deb
-Size: 9320530
-MD5sum: f00d271eaaa0daf227ec3a1920d5b998
-SHA1: 5f547dbd4290533366ffb822b780944cfdc3014c
-SHA256: d46eec2306d71004b1e5e556b6b468ab020859e366f1316e1ddc688a57b25f36
-SHA512: 6d461b98f9fc614713535840469d4ac49ab8e9cecc9d9710d60626ad0acab5cc2eb2a9ff64531b4b5572fd1b68f5719b20938032406f496cd6a84c2cd62b3746
-Description: MOD SKIN LIÊN QUÂN
-   - Nak lôi quang
-   - Bright hacker
-   - Raz bóng đá
-   - Mu siêu việt 2.0
-   - Elsu tận thế
-   - Ảii bạch kimochi
-   - Khỉ nhóc tì
-   - Flo âm nhạc
-   - Gấu nhồi bông
-   - Zata tác giả đương đại
-   - Omo tận thế
-   - Allain hack kiếm sĩ
-   - v.v
-Name: Mod Full Skin
-Author: HHN iOS
-
-Package: com.hhnios.fullskinv2
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Mod skin
-Maintainer: HHNiOS
-Filename: ./DEB/com.hhnios.fullskinv2_0.1_iphoneos-arm.deb
-Size: 4657708
-MD5sum: 710e4f6af8b6596b6126fdc223fa413d
-SHA1: 5a8a6bc3f92800a794916c152ba7d13bb6dab36e
-SHA256: e6da19fa312406da27d57de04dc704b533874c4b194c2168f06761815f24a453
-SHA512: 6009467aa560a64b8875a9289492e63010cfe144515040988d3f6ba22d18025ce475f148f3e6056fee21143b58890c830654d5b97b7ef79a31feec6e6462ffda
-Description: MOD SKIN LIÊN QUÂN
-   - Nak lôi quang
-   - Flo tinh hệ
-   - Hayate tử thần
-   - Mu siu zịt 2.0
-   - Raz muay thái
-   - Phi dép siu zịt
-   - Elsu tận thế
-   - Ryo sú
-   - Omen tận thế
-   - Allain hack kiếm sĩ
-   - Airi bạch ảnh
-   - Richter sú
-   - v.v
-Name: Mod Full Skin V2
-Author: HHN iOS
 
 Package: com.hhnios.iMemScan
 Architecture: iphoneos-arm
@@ -580,21 +509,6 @@ SHA256: cf2ceac1967dda339ed1aae8d1f52291ca6148e3d6aaacfe2fa7f74b47778f76
 SHA512: b9edf34ab216b2e61e656273bfece38e4ffcecab03ae910aa355afdc90a774fe7d6da2fdb212911c34d2a86fe33d76720b64aa57689fda6bb23a6b548d00ad17
 Description: MOD SKIN LIÊN QUÂN
 Name: Mod Skin Nak TNVT
-Author: HHN iOS
-
-Package: com.hhnios.razthai
-Architecture: iphoneos-arm
-Version: 0.1
-Section: Mod skin
-Maintainer: HHNiOS
-Filename: ./DEB/com.hhnios.razthai_0.1_iphoneos-arm.deb
-Size: 675816
-MD5sum: 80dd9ccf73930dea1d98cc81819786ed
-SHA1: 74ca9fe44d48303ccee6c7bd46fb23d678195b52
-SHA256: f4ff639e1ff46ff9cbc9cf1ba1c7408cc9518642664871a9f253a74bb0e6ce0d
-SHA512: d9941a3c6c83a686a7830e74e11fbe44b3ff5d3c9f289d5a52def72030c273e751f51bcd1fe2e31ffe9f27ea34d6f32f923cb9e6fbe323c374f812a835a49fc9
-Description: MOD SKIN LIÊN QUÂN
-Name: Mod Skin Raz Thái
 Author: HHN iOS
 
 Package: com.hhnios.shadow
