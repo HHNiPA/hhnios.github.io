@@ -35,6 +35,42 @@ Name: accDemo
 Author: Brend0n <brendonjkding@126.com>
 dev: brend0n
 
+Package: com.hhnios.antiban7day
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.antiban7day_0.1.0_iphoneos-arm.deb
+Size: 1884
+MD5sum: 3887fd55c07b79066aaf48b09e9ec475
+SHA1: 596c6b11c584d3892c766dc1357144db46a00810
+SHA256: 501d3228282e24374409963cd8960ad33f10adfb45060b2c4cb1037d913070c6
+SHA512: 24be0bf4ff638af8ca80f72f72a26ea61dadb3cfea0543bfe7f5a23b7221f51b2020a53798e9633958f96d983296548677f3a69786d018813876e99ab6ba1a9f
+Homepage: https://hhnios.github.io
+Description: Anti ban 7 day Liên Quân, by HHNiOS
+Name: Anti Ban 7 Day LQM
+Author: HHNiOS
+
+Package: com.hhnios.antiban
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 40
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.antiban_0.1.0_iphoneos-arm.deb
+Size: 1888
+MD5sum: f2d83ccf15024b1d165f13bee5dc3d55
+SHA1: a6beed85ae8a5eb033993db8603aecc3dba71074
+SHA256: c3a593c5bc46321681641015779fc5121615fea807bfc11f4a1e44e944124a14
+SHA512: 5685106c0cc4a5019d5c82a3f7590888eae299b3de6aeed4a87450c000b9e992f0bd63f1c4f677fff610d38d752a1b735559f2bb26c88bbd46c3045b3ff81c4e
+Homepage: https://hhnios.github.io
+Description: Anti ban cân tô cáo, by HHNiOS
+Name: Anti Ban Liên Quân
+Author: HHNiOS
+
 Package: com.hhnios.appsyncunified
 Architecture: iphoneos-arm
 Version: 104.0
