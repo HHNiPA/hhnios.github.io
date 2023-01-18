@@ -236,6 +236,22 @@ Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ tr
 Name: Cam Xa 3 Nấc Liên Quân
 Author: HHNiOS
 
+Package: com.hhnios.clockfonts
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: HHNiOS
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.clockfonts_1.2_iphoneos-arm.deb
+Size: 62512
+MD5sum: 2fab7aca6b2d84f5c199052fcdf2d156
+SHA1: 9cc008dbffd02225d6a3f301a61bcbe5a63a9df2
+SHA256: bf1b3304c1a2437993a7afd842cf21b43a8640335e4285faca5f0257491d0d68
+SHA512: 07d92f1e39406a5eb8361e986761ecf32e4d901cbfb069a81049dbe104a6c51a3fe60d783d145acc1d2d76b7f945ca9d68cdc46d076465ad893c79d8d1b58a5d
+Description: Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn
+Name: ClockFonts
+Author: nqt1195
+
 Package: com.hhnios.crackerxi+
 Architecture: iphoneos-arm
 Version: 1.1.1
