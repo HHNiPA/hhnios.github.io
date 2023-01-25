@@ -35,6 +35,24 @@ Name: accDemo
 Author: Brend0n <brendonjkding@126.com>
 dev: brend0n
 
+Package: com.hhnios.aim
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 4788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary
+Filename: ./DEB/com.hhnios.aim_1.2.2_iphoneos-arm.deb
+Size: 2593396
+MD5sum: 454d89f010da3d81b4ed742c8d8b96a5
+SHA1: db3308aeedec86fcbde93e1ce2496bc5c5ea6d29
+SHA256: 754590f18e65c7159f7b21ddc7e55c3f06cd0179a188be79a9d58781d5c02cdf
+SHA512: a9f434bcdc5ce25fa4f46ce205db56a08f716f8348323ac8a251a137b9b57ba5fee3fa3bb5bd2984efd8aa44c572c2233d1ea589d3164c69f94a4ae9fed5f734
+Description: Màn hình khóa kiểu iOS 16. Để tránh xung đột, bạn nên xoá các tinh chỉnh màn hình khoá trước khi cài tinh chỉnh.
+Name: AIM VH
+Author: alimaulana
+
 Package: com.hhnios.antiban7day
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -146,6 +164,22 @@ Homepage: https://hhnios.github.io
 Description: Hình Nền Girl Xinh Hoạt Hình
 Name: Cartoon Beautiful Girl WallpaperV2
 Author: HHNiOS
+
+Package: com.hhnios.blockupdate
+Architecture: iphoneos-arm
+Version: 1.2
+Section: System
+Maintainer: @ongcenh
+Depends: firmware (>= 9.0), system-cmds, mobilesubstrate
+Filename: ./DEB/com.hhnios.blockupdate_1.2_iphoneos-arm.deb
+Size: 34946
+MD5sum: 0ec2ddad988f538269f1aec32b3d662a
+SHA1: 39d067f669f9ef07f778381906c989ab87c6ad24
+SHA256: 08e6938f609902792a1ba7abb6fd9b3492b89fa666ec41478fd2e9daef978af8
+SHA512: 1bfd4d97788fbff02be97202eb9a78264a04ffe593668e590020d1ba6a2d8b06a1372aa36ceea6ec827c785186be4fe59f64161f2f22c067af1b040fa374e436
+Description: Xoá Và Chặn cập Nhập Phần Mềm Vĩnh Viễn
+Name: Block OTA
+Author: ichitaso
 
 Package: com.hhnios.bypassmbbank
 Architecture: iphoneos-arm
@@ -283,6 +317,23 @@ SHA512: 48fdfcb8eb43a50846b46296ac0b0c2fbd60275fac7475645b2eeb5d867b9316a04ae9ac
 Description: Crack Tweaks chỉ với một cú nhấp chuột
 Name: CrackTool4 (iOS 12/13/14)
 Author: julioverne
+
+Package: com.hhnios.crane
+Architecture: iphoneos-arm
+Version: 1.3.7
+Section: Tweaks
+Maintainer: HHNiOS
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./DEB/com.hhnios.crane_1.3.7_iphoneos-arm.deb
+Size: 1107784
+MD5sum: 40147798e95e51d0b2783446ed9f9fe4
+SHA1: e4cbd514f3239ff84017b0a1c7f2807b0ba01298
+SHA256: 6ff47ec62fb7b42a83f8f97f0ec9fd23811bc3e98e9e45f3a571eaf74e04481a
+SHA512: f201df1bbe15b92187e566f983a5ab79af113e577f3afa82a1f947145d17f8a5393ba71c9276f95fe89e32bbd860799128b7e59bc1a1fea09986495e0dfac6ee
+Description: Nhiều tài khoản cho ứng dụng của bạn.
+Name: Crane
+Author: opa334
 
 Package: com.hhnios.cydia
 Architecture: iphoneos-arm
