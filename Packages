@@ -44,11 +44,11 @@ Installed-Size: 4788
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary
 Filename: ./DEB/com.hhnios.aim_1.2.2_iphoneos-arm.deb
-Size: 2593396
-MD5sum: 454d89f010da3d81b4ed742c8d8b96a5
-SHA1: db3308aeedec86fcbde93e1ce2496bc5c5ea6d29
-SHA256: 754590f18e65c7159f7b21ddc7e55c3f06cd0179a188be79a9d58781d5c02cdf
-SHA512: a9f434bcdc5ce25fa4f46ce205db56a08f716f8348323ac8a251a137b9b57ba5fee3fa3bb5bd2984efd8aa44c572c2233d1ea589d3164c69f94a4ae9fed5f734
+Size: 2593398
+MD5sum: 28a349d4aff7d4c73a62ddc0371516f8
+SHA1: e7f5725e20bab17e05cb7f449f94189980560c6c
+SHA256: aef1c3e5da607a202db6b256c1f26e2d183e3cf9b43f704cfda98b9169dfe26a
+SHA512: b0e2c85571554d42ee87ae6e4d086b24c3adfed54d86f6dd8ee635960eb2fc805d2cc3ba64b6fda7f62c23533ca9ad3efeab8b79946ed4f9df7a411b140eec3a
 Description: Màn hình khóa kiểu iOS 16. Để tránh xung đột, bạn nên xoá các tinh chỉnh màn hình khoá trước khi cài tinh chỉnh.
 Name: AIM VH
 Author: alimaulana
