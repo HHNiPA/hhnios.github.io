@@ -53,6 +53,24 @@ Description: Màn hình khóa kiểu iOS 16. Để tránh xung đột, bạn nê
 Name: AIM VH
 Author: alimaulana
 
+Package: com.hhnios.aim
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: HHNiOS
+Installed-Size: 4788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary
+Filename: ./DEB/com.hhnios.aim_1.2_iphoneos-arm.deb
+Size: 2446796
+MD5sum: e833d7248b7ac6ceb8addde9de822e18
+SHA1: 9ccf7cdba175e03b95eaa41ffa9025816e85728a
+SHA256: dafe4f96ec3d79eb54037454b687c47770d5f5da50d2d5a1e0e4f5c8bd43a434
+SHA512: ca34606d6978611f827aa44e2c4ead4c7ec458b72b8f4d24720285d3b4aa8a400a8bf8ad6963d892c2ab2a49b68ddebfbec11151297324137471ca029c7ebdec
+Description: Màn hình khóa kiểu iOS 16. Để tránh xung đột, bạn nên xoá các tinh chỉnh màn hình khoá trước khi cài tinh chỉnh.
+Name: AIM VH
+Author: alimaulana
+
 Package: com.hhnios.antiban7day
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -567,11 +585,11 @@ Maintainer: HHNiOS
 Installed-Size: 624
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.lienquan_0.2.5_iphoneos-arm.deb
-Size: 442816
-MD5sum: b4980c8e976d6f6fce51869b1340bff2
-SHA1: a532276a92b6d3d7acdea8512b8788265888fb20
-SHA256: 826c07d3844e9ab84ade9869073eb77b0c9ab31c9db5b9693a2f218fe78e6a72
-SHA512: 21a346fb98efd3ce7cc3ade239674ebdffdf969ac4db14f70fe17a8b5d8d28fb6e411f1aff921540185569241422466cc40bbc0ae3d2e4a71a1b47020004ebff
+Size: 617348
+MD5sum: 2a9d646dde3b9143a25fe9f72870c156
+SHA1: 003fd003c961e6e105357f778a99dbd0603319cb
+SHA256: c15a238da4da4fe1243b2082fecd3c546f734263af03278e4e13ebfc2af98d3f
+SHA512: 109ec87a9dd66f20cb8acbbd7951681053550c27903c628ff670a856672aaad3e248c5cb0701bd5cd64b0c541e465e719e3202cd6c62ee9e8d6fed7bb3af2ddc
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
