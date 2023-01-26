@@ -61,14 +61,17 @@ Maintainer: HHNiOS
 Installed-Size: 40
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.antiban7day_0.1.0_iphoneos-arm.deb
-Size: 1884
-MD5sum: 3887fd55c07b79066aaf48b09e9ec475
-SHA1: 596c6b11c584d3892c766dc1357144db46a00810
-SHA256: 501d3228282e24374409963cd8960ad33f10adfb45060b2c4cb1037d913070c6
-SHA512: 24be0bf4ff638af8ca80f72f72a26ea61dadb3cfea0543bfe7f5a23b7221f51b2020a53798e9633958f96d983296548677f3a69786d018813876e99ab6ba1a9f
+Size: 1988
+MD5sum: 8fb3ddac3abeb6d9e570eb39158c30ec
+SHA1: 3b2cdd97885573ef19a0fce92f818d009c0efcbd
+SHA256: 9c48f726a1a368c82f550db1046688575edcfd595c43922f37182f52522ac936
+SHA512: 8b75e5cf0f4470bf3f1b74fe2687e1a02f2361f04b9852a26a7cf2afb87f1e5344238ca24060bb32c484b218962a3b7fe08c4e5758a239f5835d60eaad4a0397
 Homepage: https://hhnios.github.io
 Description: Anti ban 7 day Liên Quân, by HHNiOS
 Name: Anti Ban 7 Day LQM
+Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 Author: HHNiOS
 
 Package: com.hhnios.antiban
@@ -79,15 +82,18 @@ Maintainer: HHNiOS
 Installed-Size: 40
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.antiban_0.1.0_iphoneos-arm.deb
-Size: 1888
-MD5sum: f2d83ccf15024b1d165f13bee5dc3d55
-SHA1: a6beed85ae8a5eb033993db8603aecc3dba71074
-SHA256: c3a593c5bc46321681641015779fc5121615fea807bfc11f4a1e44e944124a14
-SHA512: 5685106c0cc4a5019d5c82a3f7590888eae299b3de6aeed4a87450c000b9e992f0bd63f1c4f677fff610d38d752a1b735559f2bb26c88bbd46c3045b3ff81c4e
+Size: 1988
+MD5sum: 5a49126bafc58073ec885ed4c5903fa1
+SHA1: 32a463ac3a0fc9a3d33df021d2f5ca7a0daef272
+SHA256: ab48bed988e5eb06eec8710d862f3e5fa088aa109353e3ff6881ea02893efa6e
+SHA512: a3f7540dbb5a868513ed5dbe322c0d55e46f6c5427a51efa2beed3dddde06a7760784607fdeea510f67cbf0956b31b468c4c31d2600bdfe274446d5f7828a931
 Homepage: https://hhnios.github.io
 Description: Anti ban cân tô cáo, by HHNiOS
 Name: Anti Ban Liên Quân
 Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.appsyncunified
 Architecture: iphoneos-arm
@@ -260,15 +266,18 @@ Maintainer: HHNiOS
 Installed-Size: 288
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.camxa3nac_0.2.0_iphoneos-arm.deb
-Size: 78892
-MD5sum: 8ebcdcc452605120ef3e0ba738b404d0
-SHA1: 468228ae0d3c8956a0d97b2040f81fa11b4bcc32
-SHA256: c048765d36d6dbead8a13aa1767b0f954a61508dc5babf170785dbeabf1b15d1
-SHA512: 875bc283883043a12d77b1e02a48e84af7797cbcad4f112f878bbc551588715d9e80e36b2ab692e20f3c4a35f6cce01584ae19e79d15a7fc9ada4b0d118d879a
+Size: 79024
+MD5sum: dde85369feaad343506daea4b046cca5
+SHA1: a031f2e742f3294153066fe7b1f75ef9ec1c26d3
+SHA256: f312c582a4eb7c7c4654e8c23fdbde54397174f8cfb2692e6085ada4b0e75fa1
+SHA512: e63d74bf4db2efdcdd9657079efbd920e128ea86a7cd46eaff0b8e0b5961ab2f8424b9666ce6c93db1f2438c720ae3589a283e5496ffc25f81bcac75c7b12c4e
 Homepage: https://hhnios.github.io
 Description: Mở khoá cam xa ba nấc cho thiết bị không được hỗ trợ, by HHNiOS
 Name: Cam Xa 3 Nấc Liên Quân
 Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.clockfonts
 Architecture: iphoneos-arm
@@ -461,6 +470,25 @@ Description: iMem Scan（以下简称 iMe）
  是一款内存基址调试工具.
 Name: iMemScan
 
+Package: com.hhnios.icon
+Architecture: iphoneos-arm
+Version: 0.1.0
+Essential: yes
+Section: System
+Maintainer: HHNiOS
+Filename: ./DEB/com.hhnios.icon_0.1.0_iphoneos-arm.deb
+Size: 422726
+MD5sum: c364b4747fca74186a49344606d1c2d8
+SHA1: 03d210792fa8bf58cfca89084dff36184cd5194e
+SHA256: 98ccfccca19d7ff3b2011da7169b08515fc546f53a312eec903f1ca319dac4b1
+SHA512: 0a25623188b1ed14fefcb906e9fd9979d234fd7c1007dfe4067f340f0935fadbea8261cf8632cf858b1028bfeb793a0477bd125db31b91c3f10f7bb270ade675
+Description: Biểu tượng Cydia cho repo HHNiOS
+Name: Icon HHNiOS
+Author: HHNiOS
+Sileodepiction: https://chiasejb.com/
+Depiction: https://chiasejb.com/
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
 Version: 1.03
@@ -539,17 +567,18 @@ Maintainer: HHNiOS
 Installed-Size: 624
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.lienquan_0.2.5_iphoneos-arm.deb
-Size: 442804
-MD5sum: b77d7489c0839a1ed16856d1fc945407
-SHA1: 8ea0de3b012998103f3993a235f98e22b4e8827c
-SHA256: 91040f954f8246d06134da62d9e9cd149b17b075f1d2e88b4ba89f6e4fbce693
-SHA512: 917a1a750908f96bd53419513d2fb4b74166f508441f0a7173870c41c22020ccac47529df930760ff36fb056dd591241b510c4f7b539eadb726869387aa2e8c6
+Size: 442816
+MD5sum: b4980c8e976d6f6fce51869b1340bff2
+SHA1: a532276a92b6d3d7acdea8512b8788265888fb20
+SHA256: 826c07d3844e9ab84ade9869073eb77b0c9ab31c9db5b9693a2f218fe78e6a72
+SHA512: 21a346fb98efd3ce7cc3ade239674ebdffdf969ac4db14f70fe17a8b5d8d28fb6e411f1aff921540185569241422466cc40bbc0ae3d2e4a71a1b47020004ebff
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
 Author: HHNiOS
 Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
