@@ -598,6 +598,27 @@ Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.3.0_iphoneos-arm.deb
+Size: 773196
+MD5sum: 434d9e939751f6baf9507b8ae6527496
+SHA1: e2cb534f5aed44f187dc6450a10bcd87c38e93c7
+SHA256: 28ea4a214ab1c736bc29849ae9a5ef74b1ad9a0a4601c97ffbf887f85c9efca2
+SHA512: 82ac07ffe82dc8e602d92fbd50975d6790add26d1cfa64287bb1e53c20bb8047f086aef067f5e0acc3067afea5e0a941c6121c247deb70eeed9f70a6611ad3e4
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
