@@ -55,6 +55,24 @@ Author: alimaulana
 
 Package: com.hhnios.aim
 Architecture: iphoneos-arm
+Version: 1.2.7
+Section: Tweaks
+Maintainer: alimaulana
+Installed-Size: 4900
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
+Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
+Filename: ./DEB/com.hhnios.aim_1.2.7_iphoneos-arm.deb
+Size: 2674474
+MD5sum: f0d0199a280c2016cd0144d9eab73197
+SHA1: 1b242a5dff18df5b179f3b786db70ee155dc4047
+SHA256: a13479076259d93f261a1e6557421f0f44af18ffdc1690bb15753ca9a61e07ab
+SHA512: ebf700acff8cd6361d610c8196ab687a22499137a6d5488c07da1f972f267e082d0874a320034dfff7e2be4712fca8b0fedfc74f0e2182dc54f8d776fb2d327f
+Description: Màn hình khoá kiểu iOS16
+Name: AIM VH
+Author: alimaulana
+
+Package: com.hhnios.aim
+Architecture: iphoneos-arm
 Version: 1.2
 Section: Tweaks
 Maintainer: HHNiOS
