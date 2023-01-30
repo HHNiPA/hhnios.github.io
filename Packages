@@ -171,6 +171,22 @@ Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của b
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
+Package: com.hhnios.batterypercent
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: nqt1195
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.batterypercent_1.1_iphoneos-arm.deb
+Size: 22962
+MD5sum: f585cac3d519d4ab209c15a9247cea3e
+SHA1: 755299806c26e83764f49e10f7c614f7cfe465cd
+SHA256: 1ebba9acbedb08df4db76711adc8393989c6c9c5c16303dd71e6fe48710f57ad
+SHA512: 98499a033e4e53cc9f50c36b8503caefe7a3d7bcafd62b18bcf2366fea64946ae3f0bb9b7d87183a15ba909ce0e295c9a66664a24f4c308ddddc9e9616bbafde
+Description: Kiểu pin ios 16 cho các ios thấp hơn
+Name: BatteryPercent ios16
+Author: nqt1195
+
 Package: com.hhnios.beautifulgirl
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -637,6 +653,27 @@ Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.3.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.lienquan_0.3.5_iphoneos-arm.deb
+Size: 617762
+MD5sum: e1fcc9b3fb9324ce44e7176283bafe7c
+SHA1: da02a0eb481ef653d8491ca5308e3f21c12ea25f
+SHA256: 1bb6b99c18fbdf496cd11c412b06151eaa7846461838edbbcba8d5bb17db88e2
+SHA512: d712daac1a5ab23a9497d7476b0b0a0d7d8d2ce18a4d5ddbdf1e4627ca6cebcddf7c6291c7971c421d9e588db1cb96ea91665e04f496647de21efeb92da9adb7
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
@@ -645,11 +682,11 @@ Maintainer: HHNiOS
 Depends: firmware (>= 5.1.1), mobilesubstrate, preferenceloader
 Conflicts: com.repo.kenhtao.net.localiapstore
 Filename: ./DEB/com.hhnios.localiapstore_1.4-5b_iphoneos-arm.deb
-Size: 70838
-MD5sum: d8e468a76429ed0d1c0641600ed6d140
-SHA1: 1beb66dfba1b41ad6f43beaf6fd1873ed55a4569
-SHA256: 0f4d78d3f39b24d666622876c8d4a12c73edef0a0c3a5ac276e054d554e878fd
-SHA512: 84ed1dbacdc4a56ee60eef2a6960077427b24fd369af4994e07c5b3cbde8aa89d700b88fe45809426c9638ccebddb625c6edf1159867b854e7bfbf6652c56030
+Size: 70874
+MD5sum: 00d9e248e011ba620edcfd9a448aa0b1
+SHA1: c634697142e7796ab4b22269da807a192411aef0
+SHA256: 730f5089c63a959a31fae286212fe1a695eb257e5027643cd87824308eb230b6
+SHA512: bdd4415459903e24eae154450e9dcdf18f511a328032d31641ad86823605204b06b5145d838d1734fc35bd4ed46b6a5018d5dfc5a5d51e5f6f21823eb143d205
 Description: Bỏ qua thanh toán trong các ứng dụng App Store
 Name: LocaliAPStore
 Author: Anondev
