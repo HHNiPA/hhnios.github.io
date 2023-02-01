@@ -473,6 +473,27 @@ Name: FakeModel
 Depiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 SileoDepiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 
+Package: com.hhnios.fifai
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.fifai_0.1.0_iphoneos-arm.deb
+Size: 442760
+MD5sum: b99b1dc630de11f02196564c6bc0ee84
+SHA1: 9e0988ed445cd8a017d87b219586444a5afa73a7
+SHA256: fb1d638599e9c341395fa11a2553a96c36154827227bd241fb5fdbf3e1745dca
+SHA512: 7a9c8d1b52f12cf0e58637760b10a0edbaad3e8f20cd482fad659607f2191c1db2dbd051cee7491e74a8505da0afd54f38b7ac44dd8d86273a26d7f9b9ae6e36
+Homepage: https://hhnios.github.io
+Description: Mod Menu by HHNiOS!
+Name: Free Fire Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.filza64bit
 Architecture: iphoneos-arm
 Version: 3.9.0-2
@@ -575,6 +596,23 @@ Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.hhnios.libfahmenu
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: fahlnbg
+Installed-Size: 428
+Filename: ./DEB/com.hhnios.libfahmenu_1.0_iphoneos-arm.deb
+Size: 176080
+MD5sum: 5b3b2e5ca5bed3ec2b805c85ab21d0f9
+SHA1: d64b137277c7a2436ab0b33aac15eb6cc5b45ac6
+SHA256: bdd09dbc56cc7c595939116e7fdb93989d0ca583013af9611bed68ab87580d6c
+SHA512: c5e4ad17cc1798135e28b7463d694ddc53eaf6eb82ea0472db164e046ea2132b9c8aaf6c93d409b9096baf111acbbd115aee2d473832ea8774c6d4274f287be1
+Description: Library for FAHMenu Mod!
+Tag: role::developer
+Name: libFAHMenu
+Author: fahlnbg
+
 Package: com.hhnios.lienquan
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -659,13 +697,13 @@ Version: 0.3.5
 Section: Liên Quân
 Maintainer: HHNiOS
 Installed-Size: 624
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.hhnios.libfahmenu
 Filename: ./DEB/com.hhnios.lienquan_0.3.5_iphoneos-arm.deb
-Size: 617762
-MD5sum: e1fcc9b3fb9324ce44e7176283bafe7c
-SHA1: da02a0eb481ef653d8491ca5308e3f21c12ea25f
-SHA256: 1bb6b99c18fbdf496cd11c412b06151eaa7846461838edbbcba8d5bb17db88e2
-SHA512: d712daac1a5ab23a9497d7476b0b0a0d7d8d2ce18a4d5ddbdf1e4627ca6cebcddf7c6291c7971c421d9e588db1cb96ea91665e04f496647de21efeb92da9adb7
+Size: 442928
+MD5sum: 9ea9878f916bf5b9af825953791ec742
+SHA1: 83bed377a441570e4c6a2ef1834f91455c79681d
+SHA256: 580bf6d213429897b982c380ab6d8fb723aba4eb2114b2e0cf81561242621e99
+SHA512: 90f0fcb76ea069dbee1a56e5c5437b9bdfd34ae1e3eff4f2677e4ec822db517146c4ef03f17dd7b663a0b0b11bab563a324d2a3602b51b95e212fce8b4c77155
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
