@@ -481,11 +481,11 @@ Maintainer: HHNiOS
 Installed-Size: 624
 Depends: mobilesubstrate, com.hhnios.libfahmenu
 Filename: ./DEB/com.hhnios.fifai_0.1.0_iphoneos-arm.deb
-Size: 442760
-MD5sum: b99b1dc630de11f02196564c6bc0ee84
-SHA1: 9e0988ed445cd8a017d87b219586444a5afa73a7
-SHA256: fb1d638599e9c341395fa11a2553a96c36154827227bd241fb5fdbf3e1745dca
-SHA512: 7a9c8d1b52f12cf0e58637760b10a0edbaad3e8f20cd482fad659607f2191c1db2dbd051cee7491e74a8505da0afd54f38b7ac44dd8d86273a26d7f9b9ae6e36
+Size: 442668
+MD5sum: ab0113453a0b4477b04bdb80cd06c7bc
+SHA1: f5872e415a03656698a24ab3febfe9d6032a35bb
+SHA256: 3f0237dc940912ac117bd52e132f97f74159c784573e77d7223e012dc9b5fbd2
+SHA512: eef2298fc4e66b567637c6a81006f325cd61ad9af4fbe3621b6b7b4694b377a8ebdc12fe017fd38f9b32fa69bdd087cac80146d4527b5e40c287ff55844acd95
 Homepage: https://hhnios.github.io
 Description: Mod Menu by HHNiOS!
 Name: Free Fire Mod Menu
