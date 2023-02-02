@@ -89,48 +89,6 @@ Description: Màn hình khóa kiểu iOS 16. Để tránh xung đột, bạn nê
 Name: AIM VH
 Author: alimaulana
 
-Package: com.hhnios.antiban7day
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 40
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.antiban7day_0.1.0_iphoneos-arm.deb
-Size: 1988
-MD5sum: 8fb3ddac3abeb6d9e570eb39158c30ec
-SHA1: 3b2cdd97885573ef19a0fce92f818d009c0efcbd
-SHA256: 9c48f726a1a368c82f550db1046688575edcfd595c43922f37182f52522ac936
-SHA512: 8b75e5cf0f4470bf3f1b74fe2687e1a02f2361f04b9852a26a7cf2afb87f1e5344238ca24060bb32c484b218962a3b7fe08c4e5758a239f5835d60eaad4a0397
-Homepage: https://hhnios.github.io
-Description: Anti ban 7 day Liên Quân, by HHNiOS
-Name: Anti Ban 7 Day LQM
-Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-Author: HHNiOS
-
-Package: com.hhnios.antiban
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 40
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.antiban_0.1.0_iphoneos-arm.deb
-Size: 1988
-MD5sum: 5a49126bafc58073ec885ed4c5903fa1
-SHA1: 32a463ac3a0fc9a3d33df021d2f5ca7a0daef272
-SHA256: ab48bed988e5eb06eec8710d862f3e5fa088aa109353e3ff6881ea02893efa6e
-SHA512: a3f7540dbb5a868513ed5dbe322c0d55e46f6c5427a51efa2beed3dddde06a7760784607fdeea510f67cbf0956b31b468c4c31d2600bdfe274446d5f7828a931
-Homepage: https://hhnios.github.io
-Description: Anti ban cân tô cáo, by HHNiOS
-Name: Anti Ban Liên Quân
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
 Package: com.hhnios.appsyncunified
 Architecture: iphoneos-arm
 Version: 104.0
