@@ -289,6 +289,22 @@ Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.chromahomebarx
+Architecture: iphoneos-arm
+Version: 0.4
+Section: Tweaks
+Maintainer: Wean
+Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
+Filename: ./DEB/com.hhnios.chromahomebarx_0.4_iphoneos-arm.deb
+Size: 153930
+MD5sum: 608c404a42baefb4b116adf0d4b0a663
+SHA1: 78acb3ab6254ab3efad835819fce6d4a66f29a06
+SHA256: dab48ce1df8ce800c931ed93366d7d70a39b5adb8bee2795acf1d26bff5ecaba
+SHA512: c30cfbe5f8337da9c8c9ad7874df983b97f7a35fec45a1cd6e31863723ccee035aa3d3e09a9de1e434501ff477986a2c32050359e2ded28be8cd3c7fb06d860c
+Description: Tinh chỉnh màu HomeBar lấy cảm hứng từ Razer Chroma cho iPhone X, cũng hoạt động với LittleX hoặc 1 số tinh chỉnh fake X khác!!
+Name: ChromaHomeBarX
+Author: Afnan Ahmad <afnanahmaddd@gmail.com>
+
 Package: com.hhnios.clockfonts
 Architecture: iphoneos-arm
 Version: 1.2
