@@ -468,6 +468,27 @@ Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.fifai
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.fifai_0.2.0_iphoneos-arm.deb
+Size: 442784
+MD5sum: 0eedaae16d16c0cc32d7c026265fde7f
+SHA1: 2c5c5f3c554c354dfad385278c6a74122373a65f
+SHA256: f8ee2313f71370ccebcbd252d3d24111c37d489b33aff64dcb0147d961692063
+SHA512: f11115a5514b9361e4a361282a4328049b617d3c0dea5173da48a87a8983daafcc137ae340943b162277af002086435c0a0a4f5d0ed8b32a04e7177efe4d0290
+Homepage: https://hhnios.github.io
+Description: Mod Menu by HHNiOS!
+Name: Free Fire Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
+SileoDepiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.filza64bit
 Architecture: iphoneos-arm
 Version: 3.9.0-2
