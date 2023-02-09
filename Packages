@@ -523,25 +523,6 @@ Description: Trình quản lý tập tin cho iOS của bạn!
 Name: Filza File Manager (64)
 Author: TIGI Software
 
-Package: com.hhnios.foxforttools
-Architecture: iphoneos-arm
-Version: 1.3.3
-Section: Development
-Maintainer: FoxfortMobile
-Installed-Size: 1744
-Depends: mobilesubstrate, com.hhnios.libfoxfortutils (>= 1.3.4)
-Conflicts: com.hackyouriphone.foxforthack, com.pulandres.foxforthack, org.cydia.kiimo.foxforthack, ru.rejail.foxforthack, me.pulandres.foxforttools, co.xrepo.appletweakjailbreak.foxforttools, net.kenhtao.foxforttools, sileoturkiye.foxforttools, com.yourepo.mohadu31.foxforttools, org.cydia.kiimo.foxforttools, com.hackyouriphone.foxforttools, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.foxforttools
-Filename: ./DEB/com.hhnios.foxforttools_1.3.3_iphoneos-arm.deb
-Size: 773476
-MD5sum: 45d3b2c32ab48c1969026df12565cd6e
-SHA1: 86571b8b25e8ce0ba62328fcf5bd7b6a17dca864
-SHA256: d21cef00e03c5a2ae885e1289d5876c6f4e8926d1129eb70e372a411f3569e8b
-SHA512: 578ec8fb14606461c227b450445a3fed70a782fe8e804ccf33870bb7c7a61db6a05f348a132a4b8fc3e75042732a22f47e9cdfb6c8e7e7b04c06e58fb1bf2fec
-Description: Helper tools for Foxfort tweaks
-Tag: role::developer
-Name: FoxFort Tools
-Author: FoxfortMobile
-
 Package: com.hhnios.frameios14
 Architecture: iphoneos-arm
 Version: 2.4.3
@@ -642,25 +623,6 @@ Description: Library for FAHMenu Mod!
 Tag: role::developer
 Name: libFAHMenu
 Author: fahlnbg
-
-Package: com.hhnios.libfoxfortutils
-Architecture: iphoneos-arm
-Version: 1.3.4
-Section: Development
-Maintainer: FoxfortMobile
-Installed-Size: 1328
-Depends: firmware (>= 11.0), com.hhnios.libsandy
-Conflicts: co.xrepo.appletweakjailbreak.libfoxfortutils, co.xrepo.appletweakjailbreak.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64, org.cydia.kiimo.libfoxfortutils64e, com.hackyouriphone.libfoxfortutils64, com.hackyouriphone.libfoxfortutils64e, com.yourepo.mohadu31.libfoxfortutils64, me.pulandres.libfoxfortutils64, me.pulandres.libfoxfortutils64e, net.kenhtao.libfoxfortutils64, sileoturkiye.libfoxfortutils64, sileoturkiye.libfoxfortutils64e, com.badr.libfoxfortutils, com.hackyouriphone.mgspoof, org.mr.mgspoof, com.34306.libfoxfortutils
-Filename: ./DEB/com.hhnios.libfoxfortutils_1.3.4_iphoneos-arm.deb
-Size: 548902
-MD5sum: 82ccae7df1c1843b921e9e3cd650da2d
-SHA1: b9df03cfc8f7d5c6a227a6d6110f1570f94ade19
-SHA256: ac9117bf7e29d1b309a70cdb6f2b58c950d486de97fd8ae2200290c0e2992d07
-SHA512: cd05c8aa0f011c6fdc6079aab2d2e223cab49c6836330bd53bb25b7dd0c1da35728dcb0d5067eb55beee22dc347812a29f1bc2dc5375a5de4785c0755430899d
-Description: library for Foxfort tweaks
-Tag: role::developer
-Name: libfoxfortutils
-Author: FoxfortMobile
 
 Package: com.hhnios.libsandy
 Architecture: iphoneos-arm
