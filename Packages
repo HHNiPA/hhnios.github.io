@@ -305,27 +305,6 @@ Description: Đặt mật khẩu cho thiết bị A11 Jailbreak bằng Checkra1n
 Name: check4round VH
 Author: Plat-Ykor
 
-Package: com.hhnios.checkl0ck
-Architecture: iphoneos-arm
-Version: 1.4.0
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 1628
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3), preferenceloader, com.hhnios.foxforttools (>= 1.3.0)
-Conflicts: me.krit.lockdown, org.mr.lockdown, com.hackyouriphone.lockdown, com.wxhbts.lockdown, com.trappledestek.lockdown, com.hhnios.lockdown, com.cydiabc.lockdown, apt.cydiakk.lockdown, com.foxfort.vizage, com.hhnios.check4round, com.yourepo.plat-ykor.check4round, me.myclassic.checkl0ck, net.cadoth.fakepass
-Filename: ./DEB/com.hhnios.checkl0ck_1.4.0_iphoneos-arm.deb
-Size: 699814
-MD5sum: c365b94f1a79525d34e949cfdfe2d745
-SHA1: 89f5552b57e0f77cce498d0178c8f3f8a8be36e0
-SHA256: e60e8537f9b5251d838a3a4f89c40c597f2fb47ef4837eb0a94cdc59c905ecc4
-SHA512: 5c6b12bd21d591d94522e27b931ec6810415e8559e6e50680f96b4352ff1e9890cce32cbac9c822a0b79e967682cc1259a9e7b8fe728cf76f4f58784df8040df
-Description: FaceID/TouchID cho các thiết bị A11 có bản bẻ khóa dựa trên checkm8
-Name: Checkl0ck
-Author: FoxfortMobile
-Depiction: https://www.chiasejb.com/2023/02/checkl0ck-140.html
-SileoDepiction: https://www.chiasejb.com/2023/02/checkl0ck-140.html
-Icon: file:///Library/PreferenceBundles/checkl0cksettings.bundle/icon@3x.png
-
 Package: com.hhnios.chromahomebarx
 Architecture: iphoneos-arm
 Version: 0.4
