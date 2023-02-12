@@ -540,6 +540,23 @@ Description: Thêm video vào màn hình chính & màn hình khoá trên iphone 
 Name: Frame (IOS 12-14)
 Author: Zerui Chen
 
+Package: com.hhnios.gesturesxv
+Architecture: iphoneos-arm
+Version: 1.2
+Section: Tweaks
+Maintainer: Wean
+Installed-Size: 2756
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./DEB/com.hhnios.gesturesxv_1.2_iphoneos-arm.deb
+Size: 2185524
+MD5sum: 2f476d87b2e0edcb3440ee054fd98000
+SHA1: 27c122a6677d656d942110a632f36920076c3467
+SHA256: 38bef0193b16ad2c7ff80e60ca499c1d48928d717a6293eb58484f462dc4b178
+SHA512: ed5c5ee0f88d713dae2745bbc99a96e94aea5f2d53190f1d5a8854b10c9bb6a9baebea4fbb4bb9a9eb6241968f373dcceda7cc06b8d2fb2d4e6079cbe08c5cbc
+Description: Cử chỉ iPhone X cho iPhone cũ tương thích với iOS 15
+Name: GesturesXV
+Author: Ethan Whited
+
 Package: com.hhnios.iMemScan
 Architecture: iphoneos-arm
 Version: 1.2.7
