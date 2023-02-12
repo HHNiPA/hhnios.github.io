@@ -788,6 +788,48 @@ Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.5.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.lienquan_0.5.5_iphoneos-arm.deb
+Size: 442928
+MD5sum: 9efffe62d200629e0b1c3a5bb4c7e51f
+SHA1: 9d4402941754b4ced81e12913d1e43780da82a9c
+SHA256: 62b93640e30249bc8455b1d20dc89fe9fc4f624c6c2e35df574bfa8aac8d5a84
+SHA512: 050fb6cfb0069e50a528d7f9813108a85c93da2844451dddd9048e146b060e4e9bb579ac30dd5c27293fc1d0a5261c1d139b7e9fd54f236af65aeb621fac1d57
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.5.5b1
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.lienquan_0.5.5b1_iphoneos-arm.deb
+Size: 442776
+MD5sum: 019ee06466a20a720eb701d752681d63
+SHA1: cfc3d3bcbd8561d1910da52183240efdca27afa2
+SHA256: a4dc2a2cccdf89bc00d7969ff984de1ed04698fac441151a0c144ab88a37f410
+SHA512: bebb3f2b7a0afa59effcc3462e1271813df6c7ed403ede7dc07c80a8091b7b87f4eac1b1f608b9084ddb7368fc77de5d6c620a97a6544ecd89e99438c3f15d66
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
@@ -873,6 +915,24 @@ SHA512: e030eb0379ff048736d01f8bf77941b220d300d688405b22431cba6e2a7c95a0ce852183
 Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
+
+Package: com.hhnios.satella
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks (Piracy)
+Maintainer: Wean
+Installed-Size: 480
+Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
+Conflicts: ai.paisseon.satella
+Filename: ./DEB/com.hhnios.satella_1.4.1_iphoneos-arm.deb
+Size: 112076
+MD5sum: 2f95d13d0e98201283030df5cac98be2
+SHA1: ebabc35d5b4e7febe62a1f2edeaa0a24f5377272
+SHA256: 644230c796668d60ebc562847130513dda688d23a2408a9f4f636a20d58c2e46
+SHA512: 876668aa8045486903ceb3f2ac8d89b2643921fd32823731d079c58589b4d81fa941d033d970d515f7e66edeed6c172d6fbac631dd5ec6d576c6046fd71a8021
+Description: Trình bẻ khóa mua hàng trong ứng dụng hiện đại
+Name: Satella
+Author: Lilliana
 
 Package: com.hhnios.shadow
 Architecture: iphoneos-arm
