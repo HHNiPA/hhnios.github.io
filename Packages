@@ -289,6 +289,41 @@ Depiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-map-lien-quan-mobile-cho-iphone.html?m=1
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.carbridge13
+Architecture: iphoneos-arm
+Version: 2.0.10
+Section: Tweaks
+Maintainer: Wean
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
+Conflicts: com.leftyfl1p.carplay , com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
+Filename: ./DEB/com.hhnios.carbridge13_2.0.10_iphoneos-arm.deb
+Size: 1869372
+MD5sum: a311a51b3c141f7f1d14a03b30e10e81
+SHA1: f6ab5773ede5b5a3092011a075c3469eed6990c2
+SHA256: b3023856b49ad9ff7cf782cb32ebe9e4740b404784414c6057bba2263fff50b3
+SHA512: 5ae76b40df3fc7121a321999c32a51e867930bab2b6cc275c5ba58d6bad2d03c2940446d31df634bc711082cafd5171a48f65d509844511e7df5367bc789b7e2
+Description: Trao quyền cho CarPlay trên ios.
+Name: CarBridge ios 13-15
+Author: leftyfl1p
+
+Package: com.hhnios.carplay
+Architecture: iphoneos-arm
+Version: 1.0.9.5
+Section: Tweaks
+Maintainer: Wean
+Installed-Size: 5252
+Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
+Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
+Filename: ./DEB/com.hhnios.carplay_1.0.9.5_iphoneos-arm.deb
+Size: 3315788
+MD5sum: 8a35c9d8f91821977dfa7e543b10276a
+SHA1: 19fe660b9e5bf4e5750b2b71dd013de49c597699
+SHA256: 1d4c37bf5a5cccfd75d93a8cf41303ed98a9c4690e733fb0bad66cb956ab51f9
+SHA512: 5553c84f4247a35c2a36437ff22de93175492a9268543206fd63e4d6708dcf4158ca3d39242d3a4ef224a0636fe42103aac9838137fd35f0737d74841379b719
+Description: Trao quyền cho CarPlay
+Name: CarBridge iOS 10 - 12
+Author: leftyfl1p
+
 Package: com.hhnios.check4round
 Architecture: iphoneos-arm
 Version: 0.4
@@ -492,11 +527,11 @@ Maintainer: HHNiOS
 Installed-Size: 624
 Depends: mobilesubstrate, com.hhnios.libfahmenu
 Filename: ./DEB/com.hhnios.fifai_0.2.0_iphoneos-arm.deb
-Size: 442784
-MD5sum: 0eedaae16d16c0cc32d7c026265fde7f
-SHA1: 2c5c5f3c554c354dfad385278c6a74122373a65f
-SHA256: f8ee2313f71370ccebcbd252d3d24111c37d489b33aff64dcb0147d961692063
-SHA512: f11115a5514b9361e4a361282a4328049b617d3c0dea5173da48a87a8983daafcc137ae340943b162277af002086435c0a0a4f5d0ed8b32a04e7177efe4d0290
+Size: 442780
+MD5sum: d2396a4fa20a2def2416e02a69d80a07
+SHA1: 18eea3391c52671a34e876426469b53c9ef3ebc4
+SHA256: 7ada9301e7cb5361a843ff42118f7cb12700e1e0da3d8d473874b85aa827dcc1
+SHA512: 381184043d8626b796d61466416fd9d6d83570c288036f76182625e47b26081543a3923225cccd141c2866fd477ca9a202f4b71b0c2f729dab5e7c937d3f01ae
 Homepage: https://hhnios.github.io
 Description: Mod Menu by HHNiOS!
 Name: Free Fire Mod Menu
@@ -664,189 +699,6 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
 
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm.deb
-Size: 772932
-MD5sum: 06865261c060b5def9039524f40e2e16
-SHA1: f472b895bf08bf7b0b230d6e47ae36da9541d79a
-SHA256: c1de670d7b7480c2da1dde7796d59d12ff7e26ada22e83a136cf54a583ca7788
-SHA512: accca3de27983a5c3bdc03e524eb34fccd7cd1f456f3a67c1b78b93c0125a68f1fcfe1fc5755bafaf3ca615b7caae1d6360f644cafad19d5305a175e969d1156
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.2.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.2.0_iphoneos-arm.deb
-Size: 773012
-MD5sum: 91d6f00bf8429851980341e14d677191
-SHA1: 5c4acaeffa284ef9491627630e64a0d50f34d7fd
-SHA256: f5eee4f08e103d92d29afb23f6498e45b7849ef82aa1532841ca71950f215c7d
-SHA512: 08933cdb473e91fefc41cbc18f840e2a53c38fdcb83853dd0c66432b188c378c232d2728f8ec66be479483b065a69c8a6118cf2aaefc68fc92f03b2fbaffb799
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.2.5
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.2.5_iphoneos-arm.deb
-Size: 617348
-MD5sum: 2a9d646dde3b9143a25fe9f72870c156
-SHA1: 003fd003c961e6e105357f778a99dbd0603319cb
-SHA256: c15a238da4da4fe1243b2082fecd3c546f734263af03278e4e13ebfc2af98d3f
-SHA512: 109ec87a9dd66f20cb8acbbd7951681053550c27903c628ff670a856672aaad3e248c5cb0701bd5cd64b0c541e465e719e3202cd6c62ee9e8d6fed7bb3af2ddc
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.3.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 1164
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.lienquan_0.3.0_iphoneos-arm.deb
-Size: 773196
-MD5sum: 434d9e939751f6baf9507b8ae6527496
-SHA1: e2cb534f5aed44f187dc6450a10bcd87c38e93c7
-SHA256: 28ea4a214ab1c736bc29849ae9a5ef74b1ad9a0a4601c97ffbf887f85c9efca2
-SHA512: 82ac07ffe82dc8e602d92fbd50975d6790add26d1cfa64287bb1e53c20bb8047f086aef067f5e0acc3067afea5e0a941c6121c247deb70eeed9f70a6611ad3e4
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.3.5
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.3.5_iphoneos-arm.deb
-Size: 442928
-MD5sum: 9ea9878f916bf5b9af825953791ec742
-SHA1: 83bed377a441570e4c6a2ef1834f91455c79681d
-SHA256: 580bf6d213429897b982c380ab6d8fb723aba4eb2114b2e0cf81561242621e99
-SHA512: 90f0fcb76ea069dbee1a56e5c5437b9bdfd34ae1e3eff4f2677e4ec822db517146c4ef03f17dd7b663a0b0b11bab563a324d2a3602b51b95e212fce8b4c77155
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.4.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.4.0_iphoneos-arm.deb
-Size: 442972
-MD5sum: 171c828b5c0cef6265378911d2efdba0
-SHA1: 43d72af5e41731d0dca0523a61ca3519005f8137
-SHA256: 42a39f8f003c007faee1ec341232b00dd6c0ea0b939a1fa0145c593c8b0f7476
-SHA512: 51c910bb3024c5beeefaa5f6e335bcef6b256fc04761710f3f606c59712472948f1e8328186943d91d125ec333e913771a2e71658ea8f87e23f6e33fa97ac203
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.5.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.5.0_iphoneos-arm.deb
-Size: 442832
-MD5sum: 626536d2f264e798799225f9002842a4
-SHA1: b8847c548183747cd69e051961d5d6905bd9151b
-SHA256: cab0f9e9a7127684ad98663a866e328c6db2a280db8ac6a5e2be90e2f02f7088
-SHA512: b741389539bbb74123a2050b22597b30e504db48e61164fd11c923065fb65d487a898b78e36c081bebf675a169120e768b138afb886f89dd57e2176192360533
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.5.5
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.5.5_iphoneos-arm.deb
-Size: 442928
-MD5sum: 9efffe62d200629e0b1c3a5bb4c7e51f
-SHA1: 9d4402941754b4ced81e12913d1e43780da82a9c
-SHA256: 62b93640e30249bc8455b1d20dc89fe9fc4f624c6c2e35df574bfa8aac8d5a84
-SHA512: 050fb6cfb0069e50a528d7f9813108a85c93da2844451dddd9048e146b060e4e9bb579ac30dd5c27293fc1d0a5261c1d139b7e9fd54f236af65aeb621fac1d57
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.6.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.6.0_iphoneos-arm.deb
-Size: 441184
-MD5sum: 0508a7bf201607789c65eed142be47ec
-SHA1: 832c9015e7dc855217ecf09276c8458f43a6e17e
-SHA256: 00a880dd747f717612b2acf51d19263722180a31c81bd93d88f1464a45bccf99
-SHA512: 210627ef16947d6af1c89206e8755adf92c4ca66755b6fcbf7d08fb917ca73c783889a49bbd45ff7ce761be0d7094a9c95afdcae0fd94a74b7e72971804e4492
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
 Version: 1.4-5b
@@ -916,6 +768,23 @@ Description:  Menu By Majed_aj
 Name: MADNESS PUBG TEST GL+VNG+KR
 Author: ESP
 
+Package: com.hhnios.madness
+Architecture: iphoneos-arm
+Version: 0.0.9
+Section: Tweaks
+Maintainer: ESP
+Installed-Size: 688
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.madness_0.0.9_iphoneos-arm.deb
+Size: 592536
+MD5sum: 9f0467206a97f6b29892a12c87cfb75f
+SHA1: af8f1ad09f3bdd249588065463fba0367fc43fa3
+SHA256: 1b4daacc07bf46057cba1c81c5309a3853f2b091f90b4faf27b10b4782d10d60
+SHA512: 81c7870cc733245e4cc7dc978998c7460bdac4b3da552fc80946d3db51c69460367cf9d8a86bf74ea8c7d0d75f55382ff6b3dbc265a116592835da51783f25d6
+Description:  Menu By Majed_aj
+Name: MADNESS PUBG TEST GL VNG KR
+Author: ESP
+
 Package: com.hhnios.memsearch
 Architecture: iphoneos-arm
 Version: 1.5
@@ -933,6 +802,27 @@ Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
 
+Package: com.hhnios.pubg
+Architecture: iphoneos-arm
+Version: 0.2.0
+Section: Pubg
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.pubg_0.2.0_iphoneos-arm.deb
+Size: 442476
+MD5sum: 259a535e08532fdc793744a1fe72398b
+SHA1: b0615d1701761ee98dd1ac89e48c07c37e23c131
+SHA256: 3a7d63dd1afa8892b7d48873547d3ffff0703144177727f9e3f72f0b397f727c
+SHA512: 3ac264c981069436f6a2e005e5da295d7b5c86be9c22af327f782c70c822b886b9cb59009c3f5c867fb6f481f88c91528b050b9c926d82bfe2d61c069bb4bb81
+Homepage: https://hhnios.github.io
+Description: Mod Menu by HHNiOS!
+Name: PUBG Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
+SileoDepiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.satella
 Architecture: iphoneos-arm
 Version: 1.4.1
@@ -942,14 +832,14 @@ Installed-Size: 480
 Depends: firmware (>= 12.2), ws.hbang.common (>= 1.17), com.opa334.altlist (>= 1.0.7)
 Conflicts: ai.paisseon.satella
 Filename: ./DEB/com.hhnios.satella_1.4.1_iphoneos-arm.deb
-Size: 112076
-MD5sum: 2f95d13d0e98201283030df5cac98be2
-SHA1: ebabc35d5b4e7febe62a1f2edeaa0a24f5377272
-SHA256: 644230c796668d60ebc562847130513dda688d23a2408a9f4f636a20d58c2e46
-SHA512: 876668aa8045486903ceb3f2ac8d89b2643921fd32823731d079c58589b4d81fa941d033d970d515f7e66edeed6c172d6fbac631dd5ec6d576c6046fd71a8021
-Description: Trình bẻ khóa mua hàng trong ứng dụng hiện đại
-Name: Satella
-Author: Lilliana
+Size: 112238
+MD5sum: fd313a3dfc1a7441e489b41cb9affb9d
+SHA1: 8599bb8faf8b6867e7f36ee953d0b100df16c42e
+SHA256: 8cc896b665c4396a8fd2f10015adc4e78df7a76870fa09a16753f2c49ceea0e7
+SHA512: 992ddcf037ee5dbee78ff8218623c62428f0360f20aa5d4a25fdb7ada1e3896d0578275bc04190e677f5984088af067fe3b40dd92d6f11336e473d5c77e83f74
+Description: Modern in-app purchase cracker
+Name: Satella VH
+Author: Lilliana VH
 
 Package: com.hhnios.shadow
 Architecture: iphoneos-arm
