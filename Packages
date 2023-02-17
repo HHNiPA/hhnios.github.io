@@ -771,16 +771,16 @@ Author: ESP
 Package: com.hhnios.madness
 Architecture: iphoneos-arm
 Version: 0.0.9
-Section: Tweaks
+Section: Pubg
 Maintainer: ESP
 Installed-Size: 688
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.madness_0.0.9_iphoneos-arm.deb
-Size: 592536
-MD5sum: 9f0467206a97f6b29892a12c87cfb75f
-SHA1: af8f1ad09f3bdd249588065463fba0367fc43fa3
-SHA256: 1b4daacc07bf46057cba1c81c5309a3853f2b091f90b4faf27b10b4782d10d60
-SHA512: 81c7870cc733245e4cc7dc978998c7460bdac4b3da552fc80946d3db51c69460367cf9d8a86bf74ea8c7d0d75f55382ff6b3dbc265a116592835da51783f25d6
+Size: 592540
+MD5sum: 653dccdcbecfaaf641c54505c58233bf
+SHA1: 1b7017ff3909f356ea8b0aed0ad3dc7622ad4988
+SHA256: 386fac15d2406431d95785a94e3104ef3c37624568ebad1674fc6615388548bc
+SHA512: 1f8b9d0ed4be22fe9a2a17c185f740e0fe28d2a1bb4409ad14ccc7d030c31dded418e8df745ac509d6d2270d149ac013664c0db20c15a5bd51dcf538cc2feec9
 Description:  Menu By Majed_aj
 Name: MADNESS PUBG TEST GL VNG KR
 Author: ESP
@@ -801,27 +801,6 @@ SHA512: e030eb0379ff048736d01f8bf77941b220d300d688405b22431cba6e2a7c95a0ce852183
 Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
-
-Package: com.hhnios.pubg
-Architecture: iphoneos-arm
-Version: 0.2.0
-Section: Pubg
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.pubg_0.2.0_iphoneos-arm.deb
-Size: 442476
-MD5sum: 259a535e08532fdc793744a1fe72398b
-SHA1: b0615d1701761ee98dd1ac89e48c07c37e23c131
-SHA256: 3a7d63dd1afa8892b7d48873547d3ffff0703144177727f9e3f72f0b397f727c
-SHA512: 3ac264c981069436f6a2e005e5da295d7b5c86be9c22af327f782c70c822b886b9cb59009c3f5c867fb6f481f88c91528b050b9c926d82bfe2d61c069bb4bb81
-Homepage: https://hhnios.github.io
-Description: Mod Menu by HHNiOS!
-Name: PUBG Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
-SileoDepiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.satella
 Architecture: iphoneos-arm
