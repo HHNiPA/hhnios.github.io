@@ -374,6 +374,21 @@ Author: nqt1195
 
 Package: com.hhnios.crackerxi+
 Architecture: iphoneos-arm
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./DEB/com.hhnios.crackerxi+_1.1.16_iphoneos-arm.deb
+Size: 9960968
+MD5sum: 804fa97004479ad36a12a62c3bd64071
+SHA1: 48dc87633964dadafd2c3c0915579029b03320cf
+SHA256: 4c1b8da139acceff887d02265e6158a492e222054849e1d2f1cf9bde49595231
+SHA512: 312ccd61cf0ed5ab81f5c770c69aea5258f389c2162569b684896c035644a4fce2350a9898c18953809d8e0f1607d41dd0de7bdc227f98bac35fb5e7253c3d1a
+Description: Trích File IPA một ứng dụng bất kỳ mà bạn muốn. Hoạt động tốt từ ios 11 đến ios 14 đều ok .
+Name: CrackerXI+
+
+Package: com.hhnios.crackerxi+
+Architecture: iphoneos-arm
 Version: 1.1.1
 Section: System
 Maintainer: HHN iOS
@@ -558,6 +573,24 @@ Description: Trình quản lý tập tin cho iOS của bạn!
 Name: Filza File Manager (64)
 Author: TIGI Software
 
+Package: com.hhnios.filza64bit
+Architecture: iphoneos-arm
+Version: 4.0.0-6
+Section: Utilities
+Maintainer: Wean
+Installed-Size: 23200
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./DEB/com.hhnios.filza64bit_4.0.0-6_iphoneos-arm.deb
+Size: 8975386
+MD5sum: fb38c4486587b1f3b76647b7121d9bf5
+SHA1: bb7a6853f621f38f6a058fd005cbe00427a427dd
+SHA256: fc019244b7afce5df616e15cadeaa7d89c8d08bf54a5c12db0269ebec3339b73
+SHA512: 118c46f415fa2f448f9f1014b4970c722bb5ab2d0beeef412cf4223c56738fa9e95ccdfbf20a376e2e3f33d9b7cc8096c5fbf9cc67ca40ea4978e50508c9bb7b
+Description: Trình quản lý tệp cho iOS
+Name: Filza File Manager 64
+Author: TIGI Software
+
 Package: com.hhnios.frameios14
 Architecture: iphoneos-arm
 Version: 2.4.3
@@ -698,6 +731,48 @@ Name: libSandy
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm.deb
+Size: 443108
+MD5sum: dc3b6d134893630a0bdf98f351f36798
+SHA1: 1c2f313cfc5e826cf1d79efca91476e9a7f32f7f
+SHA256: 4ed83166159ba0f391b27b9d27028de6734e1d2d09ce61e4ec1e4f3d2c3ce8e6
+SHA512: a6bf217372a6286f62fdedbe1ea7a8175b4cf872392d5cebba1c8dcafdf76394c09b0da02d35bc76c67cf61a0e360131d918d432151ff482763dcb5405552fc6
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
+Size: 443172
+MD5sum: 09f47e7ae06fe5a5b97b70733d0a4fc4
+SHA1: af9b0b6509f9c861ccd0e1dcec9687cfbcf66c71
+SHA256: 8c3d7972e8b83a5e707e3c0f38d1c0e70230b96f0b2c443ada6bc93ea38c7faf
+SHA512: 5fa1171fb368de54aed859a7e79923718ad3a424a386026382f609f1750d1667bb6b6324f831a80f10ce291f525d68db4b2569852cb84fd97be5b09abf5db070
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
