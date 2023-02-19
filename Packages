@@ -582,14 +582,16 @@ Installed-Size: 23200
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./DEB/com.hhnios.filza64bit_4.0.0-6_iphoneos-arm.deb
-Size: 8975386
-MD5sum: fb38c4486587b1f3b76647b7121d9bf5
-SHA1: bb7a6853f621f38f6a058fd005cbe00427a427dd
-SHA256: fc019244b7afce5df616e15cadeaa7d89c8d08bf54a5c12db0269ebec3339b73
-SHA512: 118c46f415fa2f448f9f1014b4970c722bb5ab2d0beeef412cf4223c56738fa9e95ccdfbf20a376e2e3f33d9b7cc8096c5fbf9cc67ca40ea4978e50508c9bb7b
+Size: 8975444
+MD5sum: df88e2b3fbc3fb53fdb3f72ddd5a134d
+SHA1: 3dd1ab6f17d4261c7645ae3df5e888e247936fb3
+SHA256: 634186fb821196ec138feb05b6da968227c097abfffcdf75a376c32b56b3f59c
+SHA512: f1e0a4dc6ee1d4ca1746edaaf08cc7db01fb3fe4b0f3a7f581c2523121c41be96ca9f4791a24290e055a55c5bded314e11f4bc9179edbc134ef785ce01c3a381
 Description: Trình quản lý tệp cho iOS
 Name: Filza File Manager 64
 Author: TIGI Software
+Depiction: https://https://hhnios.github.io/info/filza.html
+SileoDepiction: https://hhnios.github.io/info/filza.html
 
 Package: com.hhnios.frameios14
 Architecture: iphoneos-arm
@@ -691,6 +693,24 @@ SHA512: 0dc4a6832ea2c201e959f1f9c5d3a5d5dd1806291d939eb425a85cba82d4c7a6307cca29
 Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó không phải lúc nào cũng hoạt động nên đừng mong đợi nhiều.  Bật tinh chỉnh bên trong Cài đặt iOS.  Tinh chỉnh này được thực hiện bởi @Laxus cho iOSGods.com, hỗ trợ các thiết bị A12/A13
 Name: iOSGods iAP Cracker
 Author: Laxus
+
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.libantiban_0.1.0_iphoneos-arm.deb
+Size: 78860
+MD5sum: 3dc869e714d3b0cb99b62e2c3bf7f596
+SHA1: ea239e1cc8eeab9d0d911e44640a710291bd959f
+SHA256: 0b2090d5d27591f8e483493d0e5db07d98b674b858a669c55d5750533a8d186a
+SHA512: 43be0d141f2d2d0a457047ddf994ea20219548ccd6cddc297ff3d68f2032407e495e3eb330fb8af82462d7d3fd93884d88fe34fe12122794728b6bbf6e44b822
+Homepage: https://hhnios.github.io
+Description: Gói hỗ trợ cho hack map menu, by HHNiOS
+Name: libantiban
+Author: HHNiOS
 
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
