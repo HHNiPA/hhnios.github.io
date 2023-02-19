@@ -582,15 +582,15 @@ Installed-Size: 23200
 Depends: zip, unzip, gzip, unrar, p7zip
 Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
 Filename: ./DEB/com.hhnios.filza64bit_4.0.0-6_iphoneos-arm.deb
-Size: 8975444
-MD5sum: df88e2b3fbc3fb53fdb3f72ddd5a134d
-SHA1: 3dd1ab6f17d4261c7645ae3df5e888e247936fb3
-SHA256: 634186fb821196ec138feb05b6da968227c097abfffcdf75a376c32b56b3f59c
-SHA512: f1e0a4dc6ee1d4ca1746edaaf08cc7db01fb3fe4b0f3a7f581c2523121c41be96ca9f4791a24290e055a55c5bded314e11f4bc9179edbc134ef785ce01c3a381
+Size: 8975438
+MD5sum: caaa0484b106c45406f9faf58026f529
+SHA1: 5ab6f500383426ab800c3f15a71e320b993bcbe5
+SHA256: a6eb7f8459aa11ee9dfa91107d3c5ae30d7ce4dbd6973e02367fff9caaca36a5
+SHA512: 014997c557a77df8259eeb89f599ff111dd36fce093f76b59b70aa3fee0cbcbc66ff45593798de3822ec404ed2fa2fe3b4b1866f9fd9e5f4be725ccc9b26a664
 Description: Trình quản lý tệp cho iOS
 Name: Filza File Manager 64
 Author: TIGI Software
-Depiction: https://https://hhnios.github.io/info/filza.html
+Depiction: https://hhnios.github.io/info/filza.html
 SileoDepiction: https://hhnios.github.io/info/filza.html
 
 Package: com.hhnios.frameios14
