@@ -62,14 +62,16 @@ Installed-Size: 4900
 Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.14), com.spark.libsparkcolourpicker
 Conflicts: com.laughingquoll.watermelon, com.laughingquoll.watermelon.beta, moe.absolucy.lucient, moe.absolucy.lucient.trial, org.coolstar.ventana-modern, xyz.royalapps.jellyfish, hi.my.name.is.ubik.kalm, love.litten.diary, com.eliofegh.tulipe
 Filename: ./DEB/com.hhnios.aim_1.2.7_iphoneos-arm.deb
-Size: 2674474
-MD5sum: f0d0199a280c2016cd0144d9eab73197
-SHA1: 1b242a5dff18df5b179f3b786db70ee155dc4047
-SHA256: a13479076259d93f261a1e6557421f0f44af18ffdc1690bb15753ca9a61e07ab
-SHA512: ebf700acff8cd6361d610c8196ab687a22499137a6d5488c07da1f972f267e082d0874a320034dfff7e2be4712fca8b0fedfc74f0e2182dc54f8d776fb2d327f
+Size: 2674522
+MD5sum: f1d47b98b4d5c5cb87023b2487f21d25
+SHA1: bbe84fd54a3aba6ca009970a5c924bd82f5e5718
+SHA256: 42d33335e88e05ef21e02a361e864da882efd4f7afe5b6a57f5a39eeba2a87a0
+SHA512: 4a8473096ee9efdbb14946f93102fd303410422c72701e8ee6792fc3f3bbd8bd0b5e41b28a053a9168a747b796e93036950d66b73912909e252ba960b999758b
 Description: Màn hình khoá kiểu iOS16
 Name: AIM VH
 Author: alimaulana
+Depiction: https://hhnios.github.io/info/aimvh.html
+SileoDepiction: https://hhnios.github.io/info/aimvh.html
 
 Package: com.hhnios.aim
 Architecture: iphoneos-arm
@@ -120,12 +122,14 @@ Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.2)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Filename: ./DEB/com.hhnios.appsyncunified_106.0_iphoneos-arm.deb
-Size: 89594
-MD5sum: e2aa913131659f3e1e87bdd9af57eba8
-SHA1: d55dce15c17d8d75a22d1c9b72e1351a3dd4b36c
-SHA256: 37102484cb6781b1b7a2582382a5e8fe6e12a43067035af9696921bc5499c484
-SHA512: 211f410bcc38087ca6343a30e2ed67cfca8843a3d3f25c418dc6d39118ac4b29726eb21a01c26014e30be1778e724ad29dc664b4e9e13011902d507b83f22fcb
+Size: 89636
+MD5sum: d0f42e127e3c268c53443a626a242d65
+SHA1: b419f14bf7b761347912fe38e4ee4257f2ffe653
+SHA256: fcad1cb005542f786d880df60abe0f30705882b05992fadeed9d8c4e761268f3
+SHA512: 82394731ea19ccf098e14f6bad0d57c236454c04dabc05f447a04ba4f8c1ef0d6d4880198dd100b7577bb793fe53310dd234c6afaa97b9dbbe44c89259b84703
 Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn, hỗ trợ từ iOS5-iOS16
+Depiction: https://hhnios.github.io/info/appsync.html
+SileoDepiction: https://hhnios.github.io/info/appsync.html
 Name: AppSync Unified
 Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
 
@@ -136,13 +140,15 @@ Section: Tweaks
 Maintainer: nqt1195
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.batterypercent_1.1_iphoneos-arm.deb
-Size: 22962
-MD5sum: f585cac3d519d4ab209c15a9247cea3e
-SHA1: 755299806c26e83764f49e10f7c614f7cfe465cd
-SHA256: 1ebba9acbedb08df4db76711adc8393989c6c9c5c16303dd71e6fe48710f57ad
-SHA512: 98499a033e4e53cc9f50c36b8503caefe7a3d7bcafd62b18bcf2366fea64946ae3f0bb9b7d87183a15ba909ce0e295c9a66664a24f4c308ddddc9e9616bbafde
+Size: 22998
+MD5sum: 42f42615252c61d3e8fdd92e8f248522
+SHA1: 4afd6efbbbebb4bb92c0d25deb500aa17a7f0f94
+SHA256: fe527e175c0043de6491e66b1990c22985dda55fa328d9ee46f2677297368bbb
+SHA512: ed9df45adf62475021e5cef6e6d29bd21563e62e2ca241d4913825eb7cbaa90154a2f0c4d5f653755559b0ac100a4361ee0178d258879eca69d13af403e27879
 Description: Kiểu pin ios 16 cho các ios thấp hơn
-Name: BatteryPercent ios16
+Name: BatteryPercent 16
+Depiction: https://hhnios.github.io/info/batteryp16
+SileoDepiction: https://hhnios.github.io/info/batteryp16
 Author: nqt1195
 
 Package: com.hhnios.beautifulgirl
@@ -229,6 +235,25 @@ SHA1: c2af8c0a5c39193ab16ba0ee26d6acee296e6ab5
 SHA256: 14e04a67c10d7df0f155eb808bd767b0ff09901f65c1d685956a4c56048d0111
 SHA512: 1bd5312ec85a1399d222f364cbe9525645a6cd5de4421d48c87b51feb236e198ae008536250e3ab0c374fea368b5151ca370b157ada379adcb6357a8b006a5d6
 Description: Làm cho ứng dụng sử dụng FPS cao nhất.
+Name: CAHighFPS
+Author: PoomSmart
+
+Package: com.hhnios.cahighfps
+Architecture: iphoneos-arm
+Version: 1.1.1
+Section: Tweaks
+Maintainer: Wean
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 7.0), com.opa334.altlist (>= 1.0.4)
+Conflicts: com.ps.cahighfps
+Filename: ./DEB/com.hhnios.cahighfps_1.1.1_iphoneos-arm.deb
+Size: 14208
+MD5sum: ef51a3a1a3edffbf6c29ef2ebd6a2430
+SHA1: bfdbcc04b5a31726a6bc73bb82918af492713c05
+SHA256: 0aa6392891773dacb375fd9a4a0e196e82d8ba762df49320fb0c6641f60ad463
+SHA512: 3ae4f0d9fe9bbe9be606a2f15ceda3de1fe15b21f6a71547a619f8e46a60dded696e0ab6a1fbd613d1389d1224a4325b897cf3a28ee45b9d8e148c09d6493bd3
+Description: Làm cho ứng dụng sử dụng FPS cao nhất.
+Depiction: https://hhnios.github.io/info/cahightfps.html
+SileoDepiction: https://hhnios.github.io/info/cahightfps.html
 Name: CAHighFPS
 Author: PoomSmart
 
