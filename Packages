@@ -322,13 +322,15 @@ Maintainer: Wean
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, ws.hbang.common (>= 1.16), com.spark.libsparkapplist (>= 1.0.9)
 Conflicts: com.leftyfl1p.carplay , com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
 Filename: ./DEB/com.hhnios.carbridge13_2.0.10_iphoneos-arm.deb
-Size: 1869372
-MD5sum: a311a51b3c141f7f1d14a03b30e10e81
-SHA1: f6ab5773ede5b5a3092011a075c3469eed6990c2
-SHA256: b3023856b49ad9ff7cf782cb32ebe9e4740b404784414c6057bba2263fff50b3
-SHA512: 5ae76b40df3fc7121a321999c32a51e867930bab2b6cc275c5ba58d6bad2d03c2940446d31df634bc711082cafd5171a48f65d509844511e7df5367bc789b7e2
+Size: 1869414
+MD5sum: 3c82126db6dce12c5289f4f48ca11a8f
+SHA1: 02db70542af1349195bd569c95d8710102d2647a
+SHA256: d8f23c19576ae2aa405326b69eb07949b88523df79907071d38384fb671280e0
+SHA512: ef9ed1d5ba77bde9431f86f032a6944801aa94371bb0a1c991adb1a4cb9d9eae9ad7c622243a3a1535aee969d5f4e5d10e7bf8912d41cb62aaf5d5f7e093a577
 Description: Trao quyền cho CarPlay trên ios.
 Name: CarBridge ios 13-15
+Depiction: https://hhnios.github.io/info/carbridge.html
+SileoDepiction: https://hhnios.github.io/info/carbridge.html
 Author: leftyfl1p
 
 Package: com.hhnios.carplay
@@ -340,12 +342,14 @@ Installed-Size: 5252
 Depends: firmware (>= 10.0), mobilesubstrate, applist, com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
 Conflicts: com.eason.carplay, com.eason.carplay.ios11, ch.ringwald.hidsupport, com.leftyfl1p.carbridge13
 Filename: ./DEB/com.hhnios.carplay_1.0.9.5_iphoneos-arm.deb
-Size: 3315788
-MD5sum: 8a35c9d8f91821977dfa7e543b10276a
-SHA1: 19fe660b9e5bf4e5750b2b71dd013de49c597699
-SHA256: 1d4c37bf5a5cccfd75d93a8cf41303ed98a9c4690e733fb0bad66cb956ab51f9
-SHA512: 5553c84f4247a35c2a36437ff22de93175492a9268543206fd63e4d6708dcf4158ca3d39242d3a4ef224a0636fe42103aac9838137fd35f0737d74841379b719
+Size: 3315824
+MD5sum: a31114530ffad9a110f3d275b90ce82e
+SHA1: ebddf66bc579eaaeab597738bca282f5f5fcab1b
+SHA256: d9bc0f8948287b252500b2061a3ff6f5ee3f5dcd35b50289ca7e356f53b4640d
+SHA512: 92e8e2331862c5b6748061b1b2fbf00d1ec9aec280c227b096885a1ea43dfbfe2b074ad51dc3ca55a3c1fa719f0c7accee9335ad27c2e237e31fa1697f763285
 Description: Trao quyền cho CarPlay
+Depiction: https://hhnios.github.io/info/carbridge.html
+SileoDepiction: https://hhnios.github.io/info/carbridge.html
 Name: CarBridge iOS 10 - 12
 Author: leftyfl1p
 
@@ -388,12 +392,14 @@ Section: Tweaks
 Maintainer: HHNiOS
 Depends: mobilesubstrate
 Filename: ./DEB/com.hhnios.clockfonts_1.2_iphoneos-arm.deb
-Size: 62512
-MD5sum: 2fab7aca6b2d84f5c199052fcdf2d156
-SHA1: 9cc008dbffd02225d6a3f301a61bcbe5a63a9df2
-SHA256: bf1b3304c1a2437993a7afd842cf21b43a8640335e4285faca5f0257491d0d68
-SHA512: 07d92f1e39406a5eb8361e986761ecf32e4d901cbfb069a81049dbe104a6c51a3fe60d783d145acc1d2d76b7f945ca9d68cdc46d076465ad893c79d8d1b58a5d
+Size: 62560
+MD5sum: 42f82f02d15a3565c70edc1eab645d00
+SHA1: 196123d8a91a3ac2a5ae75372ce18b82b8de50fe
+SHA256: 4fc0eecfeed5b34ac5bc731549fc153d9c2afcdc83190a490e02ee2e3db13d17
+SHA512: c7fe55744ff2625e86f830154ef883a07f10f428342c6f2f32e36ae9b4437c6155d9de9a3f0e85033175b77dad453aa30e1679f5d9386e83a0f5a3633d7fee1f
 Description: Tuỳ chỉnh phông chữ đồng hồ trên màn hình khoá của bạn
+Depiction: https://hhnios.github.io/info/clockfont.html
+SileoDepiction: https://hhnios.github.io/info/clockfont.html
 Name: ClockFonts
 Author: nqt1195
 
