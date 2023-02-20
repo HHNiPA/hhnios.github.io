@@ -203,23 +203,6 @@ Description: Xoá Và Chặn cập Nhập Phần Mềm Vĩnh Viễn
 Name: Block OTA
 Author: ichitaso
 
-Package: com.hhnios.bypassmbbank
-Architecture: iphoneos-arm
-Version: 1.0-20
-Section: Tweaks
-Maintainer: @hhnios
-Installed-Size: 644
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.bypassmbbank_1.0-20_iphoneos-arm.deb
-Size: 258144
-MD5sum: 1ff04a0e1bec0d8c23b59433607a0ca5
-SHA1: c7e5284d928eaece320d93337901ef05d8ca747d
-SHA256: 4eaf52a565532364c75d300161b2d12d8899dafa496661dad3b972897d548c6e
-SHA512: bf349988906cffd1f811f5668f2da65e977b1c66f1f4a4873eae9e99df4ca0c9a899ec0e7ca36cfe453dc63aeca1370ca86138d54617c839a62662da77d75d30
-Description: Chặn phát hiện , ẩn jailbreaks cho MBBank
-Name: Bypass MBBank
-Author: IPALibrary <ipalibrary.info>
-
 Package: com.hhnios.cahighfps
 Architecture: iphoneos-arm
 Version: 1.1.0
@@ -376,13 +359,15 @@ Section: Tweaks
 Maintainer: Wean
 Depends: firmware(>= 11.0), mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker
 Filename: ./DEB/com.hhnios.chromahomebarx_0.4_iphoneos-arm.deb
-Size: 153930
-MD5sum: 608c404a42baefb4b116adf0d4b0a663
-SHA1: 78acb3ab6254ab3efad835819fce6d4a66f29a06
-SHA256: dab48ce1df8ce800c931ed93366d7d70a39b5adb8bee2795acf1d26bff5ecaba
-SHA512: c30cfbe5f8337da9c8c9ad7874df983b97f7a35fec45a1cd6e31863723ccee035aa3d3e09a9de1e434501ff477986a2c32050359e2ded28be8cd3c7fb06d860c
+Size: 153980
+MD5sum: 69a6ece2ab2921e284a55ea1908cfe0e
+SHA1: 65728caa1ce8d3886e87e0ea9d5f6bf5df0f51a5
+SHA256: 2c6efe2c92237835af146b080630d11c5bbe12d25525181bf778f2e6be19633f
+SHA512: 34b29f141dbc77f08be9c21b3ed3012dce3071a0d125a0866f97cf660d1ad14d0bcf90b04583bb9737bd1fb817ca85871e98f7164f328ec29af0ccd34eb258af
 Description: Tinh chỉnh màu HomeBar lấy cảm hứng từ Razer Chroma cho iPhone X, cũng hoạt động với LittleX hoặc 1 số tinh chỉnh fake X khác!!
 Name: ChromaHomeBarX
+Depiction: https://hhnios.github.io/info/chbx.html
+SileoDepiction: https://hhnios.github.io/info/chbx.html
 Author: Afnan Ahmad <afnanahmaddd@gmail.com>
 
 Package: com.hhnios.clockfonts
@@ -458,13 +443,15 @@ Maintainer: HHNiOS
 Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
 Conflicts: com.opa334.cranelite, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
 Filename: ./DEB/com.hhnios.crane_1.3.7_iphoneos-arm.deb
-Size: 1107784
-MD5sum: 40147798e95e51d0b2783446ed9f9fe4
-SHA1: e4cbd514f3239ff84017b0a1c7f2807b0ba01298
-SHA256: 6ff47ec62fb7b42a83f8f97f0ec9fd23811bc3e98e9e45f3a571eaf74e04481a
-SHA512: f201df1bbe15b92187e566f983a5ab79af113e577f3afa82a1f947145d17f8a5393ba71c9276f95fe89e32bbd860799128b7e59bc1a1fea09986495e0dfac6ee
+Size: 1107816
+MD5sum: 67b051d0fab70f637864947a9df0da95
+SHA1: 702521d9728d0fff5bdfdb962ca4ec93a38e39d2
+SHA256: eaf5416880faa23579eb7985db4986efc41c9e4ff713569db9b14437851ca727
+SHA512: c16d585f6ec9afdf4deeea12bc429b36dabaa3b291afc7b1b00f0d2d5ee2e33d29abf668fe1c4addb2398cb92745459391c3d972ebd9c56f00b84a981a11a0f4
 Description: Nhiều tài khoản cho ứng dụng của bạn.
 Name: Crane
+Depiction: https://hhnios.github.io/info/crane.html
+SileoDepiction: https://hhnios.github.io/info/crane.html
 Author: opa334
 
 Package: com.hhnios.cydia
@@ -497,13 +484,14 @@ Maintainer: HHNiOS
 Installed-Size: 1236
 Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader, com.peterdev.libpddokdo
 Filename: ./DEB/com.hhnios.dodo_2.4.1_iphoneos-arm.deb
-Size: 423744
-MD5sum: 08feb3fa1a3d8b2afc900934b52f292a
-SHA1: b2c5f4ff2e74fadb9b912a9dd72fd4997d5e7cdc
-SHA256: d25c616bce58143d196c7a0e1454edb9f79063e528ae7ca7c1f20aa8b58a6957
-SHA512: a4b3bea16faa1a0af1bd4abd559ea1fb64864b0b5ed3cbd73c8f927f8df2d1ed974a0269059d4619acbf11a950012cf05fea56846761db6035088b44f034f645
-Homepage: https://repo.packix.com/package/com.ginsu.dodo/
+Size: 423748
+MD5sum: 37a5a716490d7fb591852075a242f890
+SHA1: 7b585c8ebc0fc4dfc8374211de96e3b48dd82a22
+SHA256: d6298415b047b0af6dfea46c23d04029d4f8816e22a4cfa3c21e769c45508a1f
+SHA512: a01fc04cfcd91585908e28cbd1682dc2ccfc0accd606a05604016427b99a8a26d7a46750fceeedecf34cb2fd5a0d377f539dcf36c3d1b8b54912e879e3001f92
 Description: Thiết kế hoàn toàn mới cho màn hình khoá.
+Depiction: https://hhnios.github.io/info/dodo.html
+SileoDepiction: https://hhnios.github.io/info/dodo.html
 Name: Dodo
 Author: Ginsu
 
@@ -573,17 +561,17 @@ Maintainer: HHNiOS
 Installed-Size: 624
 Depends: mobilesubstrate, com.hhnios.libfahmenu
 Filename: ./DEB/com.hhnios.fifai_0.2.0_iphoneos-arm.deb
-Size: 442780
-MD5sum: d2396a4fa20a2def2416e02a69d80a07
-SHA1: 18eea3391c52671a34e876426469b53c9ef3ebc4
-SHA256: 7ada9301e7cb5361a843ff42118f7cb12700e1e0da3d8d473874b85aa827dcc1
-SHA512: 381184043d8626b796d61466416fd9d6d83570c288036f76182625e47b26081543a3923225cccd141c2866fd477ca9a202f4b71b0c2f729dab5e7c937d3f01ae
+Size: 442784
+MD5sum: 56c21363b843541d0b231ba8208526d5
+SHA1: ad9b78e2e67295531d3cff1cb8289313b2247a3a
+SHA256: ba3077435d72ec9ffebba0aece8c98d0a3fc9ab706f98f813abb73a97895c731
+SHA512: 67059714cc04e0fc3128129e79c77cd5d578c51ae449db91937bfe464ff60b3a60c2332604f6f329e2c2ee496731bd0a8a3d33ceb8944a847b27fcd806f659e6
 Homepage: https://hhnios.github.io
 Description: Mod Menu by HHNiOS!
 Name: Free Fire Mod Menu
 Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
-SileoDepiction: https://www.chiasejb.com/2023/02/hack-free-fire-ios-jailbreak.html
+Depiction: https://hhnios.github.io/info/fifai.html
+SileoDepiction: https://hhnios.github.io/info/fifai.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.filza64bit
@@ -649,13 +637,15 @@ Maintainer: Wean
 Installed-Size: 2756
 Depends: mobilesubstrate, ws.hbang.common
 Filename: ./DEB/com.hhnios.gesturesxv_1.2_iphoneos-arm.deb
-Size: 2185524
-MD5sum: 2f476d87b2e0edcb3440ee054fd98000
-SHA1: 27c122a6677d656d942110a632f36920076c3467
-SHA256: 38bef0193b16ad2c7ff80e60ca499c1d48928d717a6293eb58484f462dc4b178
-SHA512: ed5c5ee0f88d713dae2745bbc99a96e94aea5f2d53190f1d5a8854b10c9bb6a9baebea4fbb4bb9a9eb6241968f373dcceda7cc06b8d2fb2d4e6079cbe08c5cbc
+Size: 2185562
+MD5sum: 768caefb22dc958fba1a74c2638f729c
+SHA1: 1b66680d8d5124e4f64c52c694b2e7369f1c8421
+SHA256: 7681ac26e0969973ef018a7e1112e703861c3a5f8dc61d21d879f5d0e10212b1
+SHA512: b88f469c53c0fdba3019a4feb501b88f9a7911c0157d8f21f0ea5fbb9055276d2e2457c75e0ec677ba92a3fe3dbf41eeacc0f9ccb1be033c418881ccd5ba738d
 Description: Cử chỉ iPhone X cho iPhone cũ tương thích với iOS 15
 Name: GesturesXV
+Depiction: https://hhnios.github.io/info/gestures15.html
+SileoDepiction: https://hhnios.github.io/info/gestures15.html
 Author: Ethan Whited
 
 Package: com.hhnios.iMemScan
@@ -823,6 +813,27 @@ Name: Liên Quân Mod Menu
 Author: HHNiOS
 Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
 SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.2.0fix
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu
+Filename: ./DEB/com.hhnios.lienquan_0.2.0fix_iphoneos-arm.deb
+Size: 443220
+MD5sum: 66390de24e537a68c3939ef0e16dbb8d
+SHA1: bc17cded275b6edcba4ac39b0cc329832e65a8b4
+SHA256: 5266d7f6a5cc43385a2b160caedebdb6530678552b4be8eb74af1006bf9ad277
+SHA512: cb8c6051f71964c4ab5465dd11c2e2fe9c58054ee1f2c3669e5abec6c62b7298b88d295feeaa20068668044011c145d95baeeb5fcbc6a9a35be6666bbcca4f36
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.localiapstore
