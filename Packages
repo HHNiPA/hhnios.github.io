@@ -715,24 +715,6 @@ Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó
 Name: iOSGods iAP Cracker
 Author: Laxus
 
-Package: com.hhnios.libantiban
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 288
-Depends: mobilesubstrate
-Filename: ./DEB/com.hhnios.libantiban_0.1.0_iphoneos-arm.deb
-Size: 78860
-MD5sum: 3dc869e714d3b0cb99b62e2c3bf7f596
-SHA1: ea239e1cc8eeab9d0d911e44640a710291bd959f
-SHA256: 0b2090d5d27591f8e483493d0e5db07d98b674b858a669c55d5750533a8d186a
-SHA512: 43be0d141f2d2d0a457047ddf994ea20219548ccd6cddc297ff3d68f2032407e495e3eb330fb8af82462d7d3fd93884d88fe34fe12122794728b6bbf6e44b822
-Homepage: https://hhnios.github.io
-Description: Gói hỗ trợ cho hack map menu, by HHNiOS
-Name: libantiban
-Author: HHNiOS
-
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -772,69 +754,6 @@ Name: libSandy
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.1.0
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.1.0_iphoneos-arm.deb
-Size: 443108
-MD5sum: dc3b6d134893630a0bdf98f351f36798
-SHA1: 1c2f313cfc5e826cf1d79efca91476e9a7f32f7f
-SHA256: 4ed83166159ba0f391b27b9d27028de6734e1d2d09ce61e4ec1e4f3d2c3ce8e6
-SHA512: a6bf217372a6286f62fdedbe1ea7a8175b4cf872392d5cebba1c8dcafdf76394c09b0da02d35bc76c67cf61a0e360131d918d432151ff482763dcb5405552fc6
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.1.5
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.1.5_iphoneos-arm.deb
-Size: 443172
-MD5sum: 09f47e7ae06fe5a5b97b70733d0a4fc4
-SHA1: af9b0b6509f9c861ccd0e1dcec9687cfbcf66c71
-SHA256: 8c3d7972e8b83a5e707e3c0f38d1c0e70230b96f0b2c443ada6bc93ea38c7faf
-SHA512: 5fa1171fb368de54aed859a7e79923718ad3a424a386026382f609f1750d1667bb6b6324f831a80f10ce291f525d68db4b2569852cb84fd97be5b09abf5db070
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-SileoDepiction: https://www.chiasejb.com/2023/01/hack-lien-quan-ios-jailbreak.html?m=1
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
-
-Package: com.hhnios.lienquan
-Architecture: iphoneos-arm
-Version: 0.2.0fix
-Section: Liên Quân
-Maintainer: HHNiOS
-Installed-Size: 624
-Depends: mobilesubstrate, com.hhnios.libfahmenu
-Filename: ./DEB/com.hhnios.lienquan_0.2.0fix_iphoneos-arm.deb
-Size: 443220
-MD5sum: 66390de24e537a68c3939ef0e16dbb8d
-SHA1: bc17cded275b6edcba4ac39b0cc329832e65a8b4
-SHA256: 5266d7f6a5cc43385a2b160caedebdb6530678552b4be8eb74af1006bf9ad277
-SHA512: cb8c6051f71964c4ab5465dd11c2e2fe9c58054ee1f2c3669e5abec6c62b7298b88d295feeaa20068668044011c145d95baeeb5fcbc6a9a35be6666bbcca4f36
-Homepage: https://hhnios.github.io
-Description: Liên Quân Mod Menu by HHNiOS!
-Name: Liên Quân Mod Menu
-Author: HHNiOS
-Depiction: https://hhnios.github.io/info/lqhack.html
-SileoDepiction: https://hhnios.github.io/info/lqhack.html
-Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
@@ -1158,4 +1077,26 @@ Description: 1 ứng dụng cho phép bạn tải tinh chỉnh tương tự như
 Tag: compatible::9.0-15.7
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
+
+Package: com.thuthuatjb.hidejblite
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: TTJB Team <admin@thuthuatjb.com>
+Depends: mobilesubstrate, applist, preferenceloader, ws.hbang.common, com.thuthuatjb.iconrepo
+Conflicts: com.thuthuatjb.hidejb
+Replaces: com.thuthuatjb.hidejb
+Filename: ./DEB/com.thuthuatjb.hidejblite_1.1_iphoneos-arm.deb
+Size: 324580
+MD5sum: fef5c1ec8d2376afe3e08c8d6961a57b
+SHA1: 95c8cb7d2a069a63f150572e949eb63fb341d706
+SHA256: c0729d9e9758c9abbea057ee22a9e4ee8e2fbeb80f533154808db73be417d2f5
+SHA512: a2d0c906f576355e96e95b8f1d7437bdcfbdb12da670df5c00d66c9b877cc8fcd29c9e15e0b17bb4e942c204c8ef1b15efd6a0ae3fd8eb0857c061976f485480
+Description: Bybass jailbreak detection in certain apps, lite version of HideJB
+Tag: purpose::extension
+SileoDepiction: https://repo.thuthuatjb.com/sileo/none.json
+Name: HideJB Lite
+Author: TTJB Team <admin@thuthuatjb.com>
+Icon: file:///Library/IconRepo/tinhchinh.png
+Depiction: https://repo.thuthuatjb.com/index.php?pid=556
 
