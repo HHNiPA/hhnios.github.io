@@ -118,15 +118,37 @@ Section: Tweaks
 Maintainer: @hhnios
 Installed-Size: 732
 Provides: appsync
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.2)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3)
 Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
 Replaces: us.hackulo.appsync50
 Filename: ./DEB/com.hhnios.appsyncunified_106.0_iphoneos-arm.deb
-Size: 89636
-MD5sum: d0f42e127e3c268c53443a626a242d65
-SHA1: b419f14bf7b761347912fe38e4ee4257f2ffe653
-SHA256: fcad1cb005542f786d880df60abe0f30705882b05992fadeed9d8c4e761268f3
-SHA512: 82394731ea19ccf098e14f6bad0d57c236454c04dabc05f447a04ba4f8c1ef0d6d4880198dd100b7577bb793fe53310dd234c6afaa97b9dbbe44c89259b84703
+Size: 87206
+MD5sum: ee7730eca937c69241e5a5b8e84b1cf5
+SHA1: 157d81457afa0f48222b8c35ab033ed93757b066
+SHA256: 38c2f15ec53bac2db6576539f60761b0287781472bc67860d238d2cb2a9be2ad
+SHA512: 413386ba9c1bd73758227c6321b07c49fbcd4f6181e8533a01d699eb9963821d2e981bd3842c47a7e2f811b6d47e12702f207b84a559a35d77e7a9ed0f92f0fa
+Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn, hỗ trợ từ iOS5-iOS16
+Depiction: https://hhnios.github.io/info/appsync.html
+SileoDepiction: https://hhnios.github.io/info/appsync.html
+Name: AppSync Unified
+Author: Linus Yang, Karen/あけみ <karen@akemi.ai>
+
+Package: com.hhnios.appsyncunified
+Architecture: iphoneos-arm
+Version: 108.0
+Section: Tweaks
+Maintainer: @hhnios
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.3)
+Conflicts: net.angelxwind.appsyncunified, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./DEB/com.hhnios.appsyncunified_108.0_iphoneos-arm.deb
+Size: 87208
+MD5sum: 28f0b068cc03d377aeb9b0650e5e8fc4
+SHA1: 421a062614009a6320735e726c5a7f17491dba55
+SHA256: bb4aeef16e713d569f9986a0ac72a5a077f7242873ae5a9c598410fd7c3c50ad
+SHA512: cb9c70090518f1c8fbac7e9304179eecabfff5ce13e29e46f6d2264c75e202f1446225dea1236fb99b89b23e577e030e0b0da49ea51c94ded3645256d289937f
 Description: Cài đặt tập tin .iPA trực tiếp trên thiết bị của bạn, hỗ trợ từ iOS5-iOS16
 Depiction: https://hhnios.github.io/info/appsync.html
 SileoDepiction: https://hhnios.github.io/info/appsync.html
@@ -891,6 +913,25 @@ SHA512: 0fadb075226168e9996923d8ff7fb047939b873e9fa1500ca5e921c4343aa50d13feb48f
 Description: Chặn phát hiện Jailbreak trong các ứng dụng của bạn.
 Name: Shadow
 Author: jjolano <jjolano@me.com>
+
+Package: com.hhnios.shufflexinaa15
+Architecture: iphoneos-arm
+Version: 1.6.1-1
+Section: Tweaks
+Maintainer: CyPwn
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.creaturecoding.shuffle
+Filename: ./DEB/com.hhnios.shufflexinaa15_1.6.1-1_iphoneos-arm.deb
+Size: 1747226
+MD5sum: 7eb35c52dcc7513703738d4d216eb958
+SHA1: 898e0590ee6e49a809e8d1ff9f625a90c11d7fb6
+SHA256: f9f88c41100c8a64b6c831b29b3192c10489d3378042bc92786e579bf5019f85
+SHA512: 9f58f8ee2affde7f53ecd0ae31c7312c09cd5db6722ae6903643cdfc53d89553545d5ba86fa8c8f069e67eb1768760bf0d633f81f5df32e8c8e5246df99b5860
+Description: Organize your settings
+Depiction: https://repo.cypwn.xyz/depiction/902
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/902
+Name: Shuffle for Xina A15
+Author: CreatureSurvive
 
 Package: com.hhnios.sileo
 Architecture: iphoneos-arm
