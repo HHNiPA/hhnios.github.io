@@ -737,6 +737,27 @@ Description: Mua iAP miễn phí cho một số ứng dụng và trò chơi, nó
 Name: iOSGods iAP Cracker
 Author: Laxus
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.2.0fix
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 624
+Depends: mobilesubstrate, com.hhnios.libfahmenu, com.hhnios.lienquan, com.hhnios.icon
+Filename: ./DEB/com.hhnios.libantiban_0.2.0fix_iphoneos-arm.deb
+Size: 442232
+MD5sum: 57c083b13000b696788aaab85fd82738
+SHA1: bdf1f52dce7e843847411902ed1135ae3edb6f72
+SHA256: e850e4ac797bd106acaa9ab918b7593a44e4ff2e80242f7f4d4b81d3c955de60
+SHA512: 5e377779e963b0de8b591c71fe61cc534af2a8d0469e2cdfe0a54fa40a96bc3f59842c6f9e5e4e5a97e53f5df569d636f11f13b6490ec5f674d90926700b8dbe
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -776,6 +797,27 @@ Name: libSandy
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=libsandyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: opa334
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban, com.hhnios.icon
+Filename: ./DEB/com.hhnios.lienquan_0.2.5_iphoneos-arm.deb
+Size: 80672
+MD5sum: a5a15ebe3593bda3112cbc7c06f753a3
+SHA1: 5ec5574e8cc344feb113645e205fb175894a3260
+SHA256: d428e352b273d84251fc4020e460b755b3ae151c56a09c1b4cb6fb196180b25f
+SHA512: d5f5f7b51034def18b7639bc9a6cf188b7ac5ed0c466d608165ee3fe8631c6070d209a74b5c74a0e8c061231a124cfa87be971f62e91bed528364daf13d779a6
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
