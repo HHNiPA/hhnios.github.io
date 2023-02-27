@@ -758,6 +758,27 @@ Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.2.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 448
+Depends: mobilesubstrate, com.hhnios.libfahmenu, com.hhnios.lienquan, com.hhnios.icon
+Filename: ./DEB/com.hhnios.libantiban_0.2.5_iphoneos-arm.deb
+Size: 307004
+MD5sum: 0be10db4c065726eb3740fc1740c4698
+SHA1: a3c60946814c60d9d4b6f8ccc063f3daa82be03b
+SHA256: 5fb8e489b7a5d1feb1b0a1dc20f962af89348d6ec5531eb0305bf68762647133
+SHA512: 5b634b93124544385d32998bc8e8a46db96a14a4d6b7f3bd93d78b226f46024fa6428fa1e9a5a93ec7c843cbc9bb052f92566740ba91a2b2abc0e5fd6829e02a
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -1160,6 +1181,26 @@ Description: 1 ứng dụng cho phép bạn tải tinh chỉnh tương tự như
 Tag: compatible::9.0-15.7
 Name: Zebra
 Author: Zebra Team <team@getzbra.com>
+
+Package: com.lamlo.lienquan
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHN
+Installed-Size: 556
+Depends: mobilesubstrate, com.hhnios.icon
+Filename: ./DEB/com.lamlo.lienquan_0.1.0_iphoneos-arm.deb
+Size: 219302
+MD5sum: d0702cb80ead401ad6096d7377890579
+SHA1: b331d67b347f0a657d4a685b7821fa048358874a
+SHA256: 3a660b0778ea6283191a3b56ff5b429579d1bedfa454baa0aa23ba3dd4a6a299
+SHA512: 8ab9d4d730cbfb148b5c48dc1b226d22a71e1ed6901aac94f9a70d6f766dfccd4e2074bb3cd0ef93dd5ae49777946348637d3730ed734629138b9f743da0cc4e
+Description: Liên Quân Mod Menu by Lâm
+Name: Liên Quân Mod IGG
+Author: HHN
+Depiction: https://hhnios.github.io/info/lamlo.html
+SileoDepiction: https://hhnios.github.io/info/lamlo.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
 Package: com.thuthuatjb.hidejblite
 Architecture: iphoneos-arm
