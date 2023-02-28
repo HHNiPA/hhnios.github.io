@@ -703,6 +703,25 @@ Sileodepiction: https://chiasejb.com/
 Depiction: https://chiasejb.com/
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.iconlq
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 556
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.iconlq_0.1.0_iphoneos-arm.deb
+Size: 91718
+MD5sum: d0746953bb017e7ba64e100c56fd5adc
+SHA1: 2ad1d10046abc9b42bcf4458ae3bac1c89e17fdd
+SHA256: fa7ee323b119e55d0d6e9ebb50bdba0c53439c691d62be0dfa7e2f0bf9e149a7
+SHA512: ac50cf22c1f436811fea33a202799d13a2ece5fb70ab2486e0871045d24b41ff0d0ba04da03e02384105c8d8447202904466b490460e683fbc5df0cb5ff1b5b9
+Homepage: https://hhnios.github.io
+Description:
+Name: backgroud
+Author: HHNiOS
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.igoi
 Architecture: iphoneos-arm
 Version: 1.03
@@ -763,14 +782,14 @@ Architecture: iphoneos-arm
 Version: 0.2.5
 Section: Liên Quân
 Maintainer: HHNiOS
-Installed-Size: 448
+Installed-Size: 652
 Depends: mobilesubstrate, com.hhnios.libfahmenu, com.hhnios.lienquan, com.hhnios.icon
 Filename: ./DEB/com.hhnios.libantiban_0.2.5_iphoneos-arm.deb
-Size: 307004
-MD5sum: 0be10db4c065726eb3740fc1740c4698
-SHA1: a3c60946814c60d9d4b6f8ccc063f3daa82be03b
-SHA256: 5fb8e489b7a5d1feb1b0a1dc20f962af89348d6ec5531eb0305bf68762647133
-SHA512: 5b634b93124544385d32998bc8e8a46db96a14a4d6b7f3bd93d78b226f46024fa6428fa1e9a5a93ec7c843cbc9bb052f92566740ba91a2b2abc0e5fd6829e02a
+Size: 367972
+MD5sum: 6cb705a59e9be7dedcf93f9b12c2bd97
+SHA1: df02442fcc192b82b9ef6a5604b3ec5753ef68d0
+SHA256: eee201c1feaeb03e1015921c012b6c46d5adf811c8bbd7f845bb6e9906771ca7
+SHA512: ef27f076c155c99e8764aad0832eb8fc7e292445ae76c5ae821ee3d659e52c6df7dcca086eac9e71ff0c13ad8e1a066ec733d5161e00d5294273e0261c9bbd08
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Libantiban
@@ -825,13 +844,13 @@ Version: 0.2.5
 Section: Liên Quân
 Maintainer: HHNiOS
 Installed-Size: 288
-Depends: mobilesubstrate, com.hhnios.libantiban, com.hhnios.icon
+Depends: mobilesubstrate, com.hhnios.libantiban, com.hhnios.icon, com.hhnios.iconlq
 Filename: ./DEB/com.hhnios.lienquan_0.2.5_iphoneos-arm.deb
-Size: 80672
-MD5sum: a5a15ebe3593bda3112cbc7c06f753a3
-SHA1: 5ec5574e8cc344feb113645e205fb175894a3260
-SHA256: d428e352b273d84251fc4020e460b755b3ae151c56a09c1b4cb6fb196180b25f
-SHA512: d5f5f7b51034def18b7639bc9a6cf188b7ac5ed0c466d608165ee3fe8631c6070d209a74b5c74a0e8c061231a124cfa87be971f62e91bed528364daf13d779a6
+Size: 81304
+MD5sum: cb421665facc0540256a55bccda5d670
+SHA1: db1c9b75bac0c70029ff4aea55b948d8ea749ba4
+SHA256: c0b8aaf4a86f86c549e3d4af1562d4fe6e67b2ce2265319c3582bf67291070cc
+SHA512: 238b94dad4dbbfa5a5b1163870055bfd3d4fa8f40d171392a9628dc4f3b227086134c495cc57d1bd64af4d711061faee1bb6404b54bf92f710af8e2c78958dad
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
