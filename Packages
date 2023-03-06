@@ -798,6 +798,27 @@ Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 664
+Depends: mobilesubstrate, com.hhnios.libfahmenu, com.hhnios.lienquan, com.hhnios.icon
+Filename: ./DEB/com.hhnios.libantiban_0.3.0_iphoneos-arm.deb
+Size: 384124
+MD5sum: 3e5cae06b1f2e87f889c3e290350cc12
+SHA1: 685d5517170849eca1e58fd3906ed3fe3f520a10
+SHA256: e5eb129047b2c0f57f9fd9734ed8ee35a58b4c9d4735e3503f627477af5ba1b8
+SHA512: e95c15f45749ee7ad222bdb9a5dd842ec472369f9b27906a1bcc81d281973c3429d5029c8fbcb7d6ddd7c07b2fd4492031bce8b11e2ede41fda14d08ab6e4cea
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -851,6 +872,27 @@ MD5sum: cb421665facc0540256a55bccda5d670
 SHA1: db1c9b75bac0c70029ff4aea55b948d8ea749ba4
 SHA256: c0b8aaf4a86f86c549e3d4af1562d4fe6e67b2ce2265319c3582bf67291070cc
 SHA512: 238b94dad4dbbfa5a5b1163870055bfd3d4fa8f40d171392a9628dc4f3b227086134c495cc57d1bd64af4d711061faee1bb6404b54bf92f710af8e2c78958dad
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.3.0
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban, com.hhnios.icon, com.hhnios.iconlq
+Filename: ./DEB/com.hhnios.lienquan_0.3.0_iphoneos-arm.deb
+Size: 81052
+MD5sum: 62bac026e4007262646591920606d668
+SHA1: 900c4eae992a4297b50f57ba76d8e28980dce4e8
+SHA256: 7671649ff38babe8691a3ee8d87fa369bda478e33a1069008c1373b100897016
+SHA512: 6f25420be204b16995b35228d78da20159cc16e42555d90f7e62c825e9c3ce6977d78212190400c9e7100aa3dce380a007aea84fe017c7b4e26e5003688de764
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
@@ -1262,4 +1304,27 @@ Name: TTJB Icon Repo
 Author: TTJB Repo <admin@thuthuatjb.com>
 Sponsor: TTJB Team <admin@thuthuatjb.com>
 Depiction: https://repo.thuthuatjb.com/index.php?pid=314
+
+Package: netskao.flexlist
+Architecture: iphoneos-arm
+Version: 1.3-8
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 3823
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader
+Filename: ./DEB/netskao.flexlist_1.3-8_iphoneos-arm.deb
+Size: 834896
+MD5sum: 710fd68d32a0f086cff5adabc79bf095
+SHA1: 025162fa3fad511f4f6a9d07e2c53757ac9e6c51
+SHA256: 5e02b83b89c61b9fc41caa527707588b3f81e5ddafd4c388088edd85c94284ba
+SHA512: d652887440dc78230d1a4e9cd54f3a1eb20daa2a81642525fe139b4ff894c0078e5eaac4132220f68b24fc13d2ebc2910aa2e51706bad25dcca75fce726cbade
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexlistDp
+Description: FLEXList is a wrapper tool for FLEX Tool
+Tag: purpose::extension
+Author: Netskao <admin@initnil.com>
+Name: FLEXList
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=flexlistDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: netskao
+Icon: file:///Library/PreferenceBundles/FLEXListSettings.bundle/FLEXList@2x.png
 
