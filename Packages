@@ -819,6 +819,27 @@ Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
 
+Package: com.hhnios.libantiban
+Architecture: iphoneos-arm
+Version: 0.3.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 256
+Depends: mobilesubstrate, com.hhnios.lienquan, com.hhnios.icon
+Filename: ./DEB/com.hhnios.libantiban_0.3.5_iphoneos-arm.deb
+Size: 63880
+MD5sum: d9f2cc80f0384afea88a5036f750d8e3
+SHA1: 99f54452843686785ed20598c57e7bcfe7e5de64
+SHA256: de3fdcab93e0cce84fd954386f703658bc1a033c6bcb0d39d879fdbe447fd96d
+SHA512: e17323cff0a47dd7d3cdd02675de89569d3bb93a72c296b633bb18ed3c51d8d756da13646e85e1cf49aa03520b64fbcc373fd1c9d331f81d6e030757f80aa120
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Libantiban
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.libfahmenu
 Architecture: iphoneos-arm
 Version: 1.0
@@ -935,6 +956,27 @@ MD5sum: bc293c1f5179a06d131c75e192721999
 SHA1: 7be89f4badb8770b800139117a04ec4967306331
 SHA256: 39375ead4c92c31885c2bd34bf524b608e35db2450d41f49f24971334c393ba0
 SHA512: c3b9dcae12f6e61776c2f2c83bcebb7c000d4bdf4652f1e3cab45a3fb2e4a93d78d9e137932c274b04732b3d3545c551cc68d503393f9ef16c8103e5ff3a00e6
+Homepage: https://hhnios.github.io
+Description: Liên Quân Mod Menu by HHNiOS!
+Name: Liên Quân Mod Menu
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/lqhack.html
+SileoDepiction: https://hhnios.github.io/info/lqhack.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.lienquan
+Architecture: iphoneos-arm
+Version: 0.4.5
+Section: Liên Quân
+Maintainer: HHNiOS
+Installed-Size: 288
+Depends: mobilesubstrate, com.hhnios.libantiban, com.hhnios.icon, com.hhnios.iconlq
+Filename: ./DEB/com.hhnios.lienquan_0.4.5_iphoneos-arm.deb
+Size: 80856
+MD5sum: f3245a4950b001e3674e2b941fcfe988
+SHA1: 12d32cbf07c69a8318a7cb6e7bc3d200f28e700c
+SHA256: 1d1281f0ba79e361c669b516b766f5ccc9b60b6f7d1475af69184a0696f80cb6
+SHA512: e1c7e568ebad516ea0e1cd3d66d891f0d27d69c5cb8d70b823ba9e8c2264e218c7eb99f9005d76e82521314149ac9390713f3f3e5d422102e206a92f3a6be26f
 Homepage: https://hhnios.github.io
 Description: Liên Quân Mod Menu by HHNiOS!
 Name: Liên Quân Mod Menu
