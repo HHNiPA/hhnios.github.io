@@ -535,6 +535,24 @@ Description: Giải mã ứng dụng iOS
 Name: DumpDecrypter
 Author: Netskao
 
+Package: com.hhnios.dynamicpeninsula
+Architecture: iphoneos-arm
+Version: 0.3-2
+Section: Tweaks
+Maintainer: Elias Limneos <limneoselias@gmail.com>
+Depends: mobilesubstrate, preferenceloader, com.hhnios.limneos, firmware(>=12.0)
+Filename: ./DEB/com.hhnios.dynamicpeninsula_0.3-2_iphoneos-arm.deb
+Size: 454254
+MD5sum: 7c197cbf281a61c5702e88f2d021ce91
+SHA1: 2fcc7c02e9d947866e195fd4a373c5a6f509f0c8
+SHA256: eb2343845f2d7b600e13c71eb8dc78cf620002973c7d891d907cbe894e97cff5
+SHA512: 0f98c32d594ee0ee3538e5afd9da6009629e11223b831781798ac45eb134a87cf8b1826e2035af72ef782c1af0fd4e6c009dbd87e7b0f4cb4d396293c404cd95
+Description: Dynamic Island on your notch
+Name: DynamicPeninsula Crack
+Author: Elias Limneos <limneoselias@gmail.com>
+Depiction: https://hhnios.github.io/info/dynamic.html
+MainLibMD5: fdda9ac703fe7db3eee090148344cb7c
+
 Package: com.hhnios.fakemodel
 Architecture: iphoneos-arm
 Version: 1.1-3
@@ -1005,6 +1023,22 @@ Author: HHNiOS
 Depiction: https://hhnios.github.io/info/lqhack.html
 SileoDepiction: https://hhnios.github.io/info/lqhack.html
 Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
+Package: com.hhnios.limneos
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: CyPwn
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.limneos_3.0_iphoneos-arm.deb
+Size: 5734
+MD5sum: b09e74332d0ef236eb07e888ae387662
+SHA1: 65727550b501a0a0aafbb36b26d75bdf401edf20
+SHA256: 25eb789863c0803c7a2b9445ac6981e0933a859e98ccd5ccb7357132cf061660
+SHA512: a2e829c5777f0e608972add46c22319da30c4a0f1357d5f0cd38e85f2f0a459fb7f56291684aea31d7a6928740a223342d0bf6f0094997d0257a013e5ef2e67d
+Description: Crack for Limneos tweaks
+Name: Limneos
+Author: Anna
 
 Package: com.hhnios.localiapstore
 Architecture: iphoneos-arm
