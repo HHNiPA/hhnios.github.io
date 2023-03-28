@@ -572,6 +572,26 @@ Name: FakeModel
 Depiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 SileoDepiction: Giả lập các máy đời cao cho các dòng máy đời thấp giống anywhere hỗ trợ all ios!
 
+Package: com.hhnios.fifai4nut
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Fi fai
+Maintainer: HHNiOS
+Installed-Size: 132
+Depends: mobilesubstrate
+Filename: ./DEB/com.hhnios.fifai4nut_1.0_iphoneos-arm.deb
+Size: 28344
+MD5sum: 2f5fc7fc414c03da746a4fc5d06a1e62
+SHA1: c27a3d39a4bc8a2aaac00d53ef24176286ff0bfe
+SHA256: 65555f900c03a318bd9089eb934dd10c40cd6759fec3120e94a3a9851b6e01c8
+SHA512: d128b10f171bead30fda0803b22645f2a48bd3e25168202aba573837525d40ce4596be5c0cab5e8e24d2f29ca5f7de697de0e5bd0c6669df0e8230f54012b296
+Description: 207
+Name: FiFai Menu 4 Nút
+Author: HHNiOS
+Depiction: https://hhnios.github.io/info/fifai4nut.html
+SileoDepiction: https://hhnios.github.io/info/fifai4nut.html
+Icon: file:///Applications/Cydia.app/Sections/hhn.png
+
 Package: com.hhnios.fifai
 Architecture: iphoneos-arm
 Version: 0.1.0
@@ -647,6 +667,26 @@ SHA512: 1f5ea98b1e83aa114fc38ee9da9fb6c4a2197f64358589d12b124f11223e3db8270f525d
 Description: Thêm video vào màn hình chính & màn hình khoá trên iphone của bạn.
 Name: Frame (IOS 12-14)
 Author: Zerui Chen
+
+Package: com.hhnios.gesturesi11vh
+Architecture: iphoneos-arm
+Version: 3.6.7
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./DEB/com.hhnios.gesturesi11vh_3.6.7_iphoneos-arm.deb
+Size: 48346
+MD5sum: e3f6f8388aeadd7308ce875c30a4328f
+SHA1: 37cd00e91b398440e0829879bdc4c9caed5cdb88
+SHA256: 558ead89bb14c78ec3d84ba5380a26b4ad29dddb23131547cf83f81fb9c7b82d
+SHA512: 4df7cbc770531448bd931128222a5230988e11f0806a3927a71fd8e1908d52b06fec2556aa69169a38c344e42b289f25c90c406a883d982bee7ef4a3d6142fd9
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gesturesi11Dp
+Description: iPhone 11 gestures and other options.
+Name: Gesturesi11 VH
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=gesturesi11Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: Hius <h.h.haiduog@gmail.com>
 
 Package: com.hhnios.gesturesxv
 Architecture: iphoneos-arm
@@ -1142,6 +1182,25 @@ SHA512: e030eb0379ff048736d01f8bf77941b220d300d688405b22431cba6e2a7c95a0ce852183
 Description: Dùng gian lận tool cho iOS. Hỗ trợ iPhone và iPad  iOS 8.x
 Author: Aidoo.TK <aidoo.tk@gmail.com>
 Name: GameGemVN
+
+Package: com.hhnios.sakura
+Architecture: iphoneos-arm
+Version: 1.0.7
+Section: Tweaks
+Maintainer: ReJail <rejail@rejail.ru>
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, ws.hbang.alderis, com.opa334.altlist
+Filename: ./DEB/com.hhnios.sakura_1.0.7_iphoneos-arm.deb
+Size: 799692
+MD5sum: 904eac9ce95a04b99ea466fba768351e
+SHA1: bfe98047d7b64e87590ef44177da8c2be30efabb
+SHA256: 0f57cd5ac18b323e74e0bac5eb04fb9c22b17b3eaca583fbdf0c5171d01f0374
+SHA512: cc70a8a344eacca1f7c2ec5cae199d7316419d87dfdb3947e739d6c7247ba625faf3a24ae56073f27980001f74a6a408dde761e3bbbdef40cfd62e4c115fe36f
+Description: Многозадачность для iOS 13 и iOS 14
+Name: Sakura VH
+Author: sugiuta <sugi.uta_1203@icloud.com>
+Icon: https://twickd.com/images/6dbac005a1efd4190719ac88dea4301c.jpeg
+Depiction: https://rejail.ru/depiction.php?file=sakura
+SileoDepiction: https://rejail.ru/sileo/depiction.php?file=sakura
 
 Package: com.hhnios.satella
 Architecture: iphoneos-arm
